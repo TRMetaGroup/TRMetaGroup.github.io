@@ -12,6 +12,10 @@ education:
   - University of Kentucky, Civil Engineering, PhD, July 2010 to December 2012,
   - Southeast University, Transportation Planning and Management, Master's, September 2007 to June 2010
   - Southeast University, Traffic Engineering, Bachelor's, September 2003 to June 2007
+research_interest: 
+  - Traffic Safety, Intelligent Transportation Systems, Connected and Autonomous Vehicle
+email: 
+  - chen_david_wang@seu.edu.cn
 ---
 
 Chen Wang is currently a professor (fully), Ph.D. supervisor, and the Vice Director of the International Cooperation Office at Southeast University, leading the young discipline of Traffic Information Engineering and Control (ITS Director). 
