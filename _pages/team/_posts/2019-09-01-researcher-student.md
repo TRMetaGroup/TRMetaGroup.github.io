@@ -4,7 +4,7 @@ category: student
 title: Wei Zhou
 image: weizhou.jpg
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/weizhou'
 social:
     google-scholar:https://scholar.google.com.hk/citations?user=pJQ6KKsAAAAJ&hl=zh-CN
     github: https://weizhou96.github.io/
