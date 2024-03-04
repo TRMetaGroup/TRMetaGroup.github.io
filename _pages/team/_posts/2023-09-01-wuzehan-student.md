@@ -3,12 +3,12 @@ layout: member
 category: student
 title: ZeHan Wu 
 image: zehanwu.jpg
-role: M.D Student
+role: M.S. Student
 permalink: 'team/wuzehan'
 social:
 education:
  - Southeast University, Traffic Intelligent Information and Control, ITS, Master's Degree
- -Wuhan University of Technology, Transportation, Outstanding Engineer, B.S
+ - Wuhan University of Technology, Transportation, Outstanding Engineer, B.S.
 email:
  - zwu097701@gmail.com
 ---
