@@ -7,10 +7,11 @@ role: Lab Director
 permalink: 'team/researcher-name'
 social:
     google-scholar: https://scholar.google.com.hk/citations?user=tEtSLYQAAAAJ&hl=zh-CN
-    website:
     orcid: https://orcid.org/0000-0003-4573-9047
-education:
-
+education:  
+  - University of Kentucky, Civil Engineering, PhD, July 2010 to December 2012,
+  - Southeast University, Transportation Planning and Management, Master's, September 2007 to June 2010
+  - Southeast University, Traffic Engineering, Bachelor's, September 2003 to June 2007
 ---
 
 Chen Wang is currently a professor (fully), Ph.D. supervisor, and the Vice Director of the International Cooperation Office at Southeast University, leading the young discipline of Traffic Information Engineering and Control (ITS Director). 
