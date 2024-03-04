@@ -13,8 +13,6 @@ education:
 
 ---
 
-
-
 Chen Wang is currently a professor (fully), Ph.D. supervisor, and the Vice Director of the International Cooperation Office at Southeast University, leading the young discipline of Traffic Information Engineering and Control (ITS Director). 
 
 He obtained his Ph.D. degree from the University of Kentucky in the United States and his Master's and Bachelor's degrees from Southeast University. He has led significant research projects, including National Key R&D Programs, Jiangsu Province's Outstanding Youth Fund projects, National Natural and Science Foundation, and so on. 
