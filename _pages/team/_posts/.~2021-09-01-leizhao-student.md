@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Lei Zhao
-image: leizhao.jpg
+image: leizhao.png
 role: PhD Student
 permalink: 'team/leizhao'
 social:
