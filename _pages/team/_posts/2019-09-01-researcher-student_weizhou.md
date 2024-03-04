@@ -1,8 +1,8 @@
 ---
 layout: member
 category: student
-title: Researcher Name
-image: researcher.png
+title: Wei Zhou
+image: weizhou.jpg
 role: PhD Student
 permalink: 'team/researcher-name'
 social:
