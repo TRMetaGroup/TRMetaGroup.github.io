@@ -4,7 +4,7 @@ category: student
 title: Wei Zhou
 image: weizhou.jpg
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/weizhou'
 social:
     google-scholar:https://scholar.google.com.hk/citations?user=pJQ6KKsAAAAJ&hl=zh-CN
     github: https://weizhou96.github.io/
@@ -13,10 +13,10 @@ social:
 education:
  - School of Transportation, Southeast University, Phd, 2019.06-2025.03 (expected)
  - School of Automation, Nanjing University of Science and Technology,  Bachelor's, 2015.09-2019.06
-email:
- - vvgod@seu.edu.cn
 research_interest: 
   - Intelligent Transportation Systems, Computer Vision, Vehicle Detection, Accident Detection/Prediction, Multi-modal Large Models
+email:
+ - vvgod@seu.edu.cn
 ---
 
 Wei Zhou, a Ph.D. candidate at Southeast University, currently in the fourth year of his doctoral studies, has published and had accepted a total of 25 academic papers. 
