@@ -9,21 +9,19 @@ social:
     google-scholar: https://scholar.google.com.hk/citations?user=tEtSLYQAAAAJ&hl=zh-CN
     website:
     orcid: https://orcid.org/0000-0003-4573-9047
-Education:
- - University of Kentucky, Civil Engineering, PhD, July 2010 to December 2012,
+education:
+  - University of Kentucky, Civil Engineering, PhD, July 2010 to December 2012,
 
- - Southeast University, Transportation Planning and Management, Master's, September 2007 to June 2010
+  - Southeast University, Transportation Planning and Management, Master's, September 2007 to June 2010
 
- - Southeast University, Traffic Engineering, Bachelor's, September 2003 to June 2007
+  - Southeast University, Traffic Engineering, Bachelor's, September 2003 to June 2007
 
-Research interest: 
+research_interest: 
 	- Traffic Safety, Intelligent Transportation Systems, Connected and Autonomous Vehicle
 
-E-mail: 
+e-mail: 
 	- chen_david_wang@seu.edu.cn
 ---
-
-
 
 
 
