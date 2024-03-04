@@ -4,7 +4,7 @@ category: staff
 title: Chen Wang
 image: chenwang.png
 role: Lab Director
-permalink: 'team/Chen Wang'
+permalink: 'team/chenwang'
 social:
     google-scholar: https://scholar.google.com.hk/citations?user=tEtSLYQAAAAJ&hl=zh-CN
     orcid: https://orcid.org/0000-0003-4573-9047

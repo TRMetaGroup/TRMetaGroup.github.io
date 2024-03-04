@@ -4,7 +4,7 @@ category: student
 title: Wei Zhou
 image: weizhou.jpg
 role: PhD Student
-permalink: 'team/Wei Zhou'
+permalink: 'team/weizhou'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
