@@ -8,7 +8,6 @@ permalink: 'team/researcher-name'
 social:
     google-scholar:https://scholar.google.com.hk/citations?user=pJQ6KKsAAAAJ&hl=zh-CN
     github: https://weizhou96.github.io/
-    website:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/profile/Zhou-Wei-44
 education:
