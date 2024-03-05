@@ -36,12 +36,12 @@ These works provide an overview of the research of our team.
 * Zhou, W. Wen, L., Zhan, Y., & Wang, C. *  (2023). **An appearance-motion network for vision-based crash detection: Improving the accuracy in congested traffic**. *IEEE transactions on intelligent transportation systems*.  ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3297589"> [Paper]</a>
 
   <figure>
-    <img src="/images/image105.gif" alt="Your Figure" width="80%" height="auto">
+    <img src="/images/slider/image105.gif" alt="Your Figure" width="80%" height="auto">
     <figcaption>Figure Name: Detection Demo1 towards Road Accidents</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/image106.gif" alt="Your Figure" width="80%" height="auto">
+    <img src="/images/slider/image106.gif" alt="Your Figure" width="80%" height="auto">
     <figcaption>Figure Name: Detection Demo2 towards Road Accidents</figcaption>
   </figure>
 
