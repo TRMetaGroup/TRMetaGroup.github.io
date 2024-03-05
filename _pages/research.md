@@ -8,8 +8,84 @@ permalink: /research/
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+These works provide an overview of the research of our team. 
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+( * indicates the corresponding author.)
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+## Computer Vision (CV)+ Transportation
+
+### Traffic Participant Detection
+
+* Zhou, W., Wang, C. * , Xia, J., Qian, Z., & Wu, Y. (2023). **Monitoring-based traffic participant detection in urban mixed traffic: A novel dataset and a tailored detector**. *IEEE Transactions on Intelligent Transportation Systems*. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3304288"> [Paper]</a>
+
+  <figure>
+    <img src="/images/SEUPML.png" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Detection results of a detector trained on our proposed dataset (SEU_PML)</figcaption>
+  </figure>
+
+* Zhou, W., Wang, C. * , Ge, Y., Wen, L., & Zhan, Y. (2023). **All-Day Vehicle Detection From Surveillance Videos Based on Illumination-Adjustable Generative Adversarial Network**. *IEEE Transactions on Intelligent Transportation Systems*.( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3328195"> [Paper]</a>
+
+  <figure>
+    <img src="/images/ALLDAY.png" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Our IA-GAN could transform day-time images into synthetic nighttime images under divers illumination</figcaption>
+  </figure>
+
+
+### Road Accident (Anomaly) Detection/Prediction
+
+* Zhou, W. Wen, L., Zhan, Y., & Wang, C. *  (2023). **An appearance-motion network for vision-based crash detection: Improving the accuracy in congested traffic**. *IEEE transactions on intelligent transportation systems*.  ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3297589"> [Paper]</a>
+
+  <figure>
+    <img src="/images/image105.gif" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Detection Demo1 towards Road Accidents</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/image106.gif" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Detection Demo2 towards Road Accidents</figcaption>
+  </figure>
+
+* Zhou, W., Yu, Y., Zhan, Y., & Wang, C. *  (2022). **A vision-based abnormal trajectory detection framework for online traffic incident alert on freeways**. *Neural Computing and Applications*, 34(17), 14945-14958.  ( **JCR Q2, IF =6.0** )<a href="https://doi.org/10.1007/s00521-022-07335-w"> [Paper]</a>
+
+* Wang, C. ,Zhou, W\*, Yan, J., & Gong, Y. (2023). **一种用于道路交通事故自动检测的改进双流网络**. *China Journal of Highway and Transport*. ( **Top 1 transportation journal in China**)<a href="https://doi.org/10.19721/j.cnki.1001-7372.2023.05.016"> [Paper]</a>
+
+
+### Pedestrian Crossing Intention Prediction
+
+
+
+* Zhou, W., Liu, Y., Zhao, L., Xu, S., & Wang, C. (2023). **Pedestrian Crossing Intention Prediction From Surveillance Videos for Over-the-Horizon Safety Warning**. <i> IEEE Transactions on Intelligent Transportation Systems</i>. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3314051"> [Paper]</a>
+
+  <figure>
+    <img src="/images/PIE.png" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Pedestrian Crossing Intention Prediction based on Interaction Modeling and Behavior Analysis </figcaption>
+  </figure>
+
+* Zhao, L., <u>Zhou, W.</u>, Xu, S., Chen, Yu., & Wang, C. * . **Multi-agent trajectory prediction at unsignalized intersections: an improved generative adversarial network accounting for collision avoidance behaviors**. <i> Transportation Research Part C </i> ( **JCR Q1, IF =8.3** ) (Minor Revision)
+
+
+
+## Few-shot learning & Domain adaptation
+
+* <u>Zhou, W.</u>, Zhan, Y., Zhang, H., Zhao, L., & Wang, C. (2022). **Road defect detection from on-board cameras with scarce and cross-domain data**. *Automation in Construction*, 144, 104628.  ( **JCR Q1, IF =10.3** )<a href="https://doi.org/10.1016/j.autcon.2022.104628"> [Paper]</a>
+
+  <figure>
+    <img src="/images/CRACK.png" alt="Your Figure" width="50%" height="auto">
+    <figcaption>Figure Name: Few Shot Learning Framework for Crack Detection with Few Labeled Samples </figcaption>
+  </figure>
+
+* <u>Zhou, W.</u>, Liu, Y., Wang, C., Zhan, Y., Dai, Y., & Wang, R. (2022). **An automated learning framework with limited and cross-domain data for traffic equipment detection from surveillance videos**. *IEEE Transactions on Intelligent Transportation Systems*, 23(12), 24891-24903. ( **JCR Q1, IF =8.5** )  <a href="https://doi.org/10.1109/TITS.2022.3195509"> [Paper]</a>
+
+* <u>Zhou, W.</u>, Cui, Y., Huang, H., Huang, H., & Wang, C. (2024). **A fast and data-efficient deep learning framework for multi-class fruit blossom detection**. Computers and Electronics in Agriculture, 217, 108592.  ( **JCR Q1, IF =8.3** ) <a href="https://doi.org/10.1016/j.compag.2023.108592"> [Paper]</a>
+
+* <u>Zhou, W.</u>, Zhao, L., Huang, H., Chen, Y., Xu, S., & Wang, C. (2023). **Automatic waste detection with few annotated samples: improving waste management efficiency**. Engineering Applications of Artificial Intelligence, 120, 105865.  ( **JCR Q1, IF =8.0** ) <a href="https://doi.org/10.1016/j.engappai.2023.105865"> [Paper]</a>
+
+## Large Models
+
+* <u>Zhou, W.</u>, Huang, H., Zhang, H.,  & Wang, C. * . **Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras**. <i> IEEE Transactions on Intelligent Transportation Systems. </i> ( **JCR Q1, IF =8.5** )   (Major Revision)
+
+<figure>
+  <img src="/images/SAM.png" alt="Your Figure" width="50%" height="auto">
+  <figcaption>Figure Name: Developing Parameter-efficient Transfer Learning Method on Segment-Anything-Model for Crack Segmentation </figcaption>
+</figure>
+
