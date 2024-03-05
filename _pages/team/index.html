@@ -40,7 +40,7 @@ permalink: /team/
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
-        <div class="col-md-4">
+        <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
                     class="card-img img-responsive img-thumbnail"
@@ -48,7 +48,7 @@ permalink: /team/
             </a>
         </div>
 
-        <div class="col-md-5">
+        <div class="col-md-10">
             <div class="card-body">
             <h4 class="card-title">{{ member.title }}</h4>
             <p class="card-text">{{ member.role }}</p>
