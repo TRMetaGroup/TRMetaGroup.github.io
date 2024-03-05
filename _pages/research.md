@@ -18,19 +18,18 @@ These works provide an overview of the research of our team.
 
 * Zhou, W., Wang, C. * , Xia, J., Qian, Z., & Wu, Y. (2023). **Monitoring-based traffic participant detection in urban mixed traffic: A novel dataset and a tailored detector**. *IEEE Transactions on Intelligent Transportation Systems*. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3304288"> [Paper]</a>
 
-![这是一张图片](/images/SEUPML.png "Detection results of a detector trained on our proposed dataset (SEU_PML) ")
-
   <figure>
     <img src="/images/SEUPML.png" alt="Your Figure" width="80%" height="auto">
-    <figcaption>Figure Name: Detection results of a detector trained on our proposed dataset (SEU_PML) 
+    <figcaption style="text-align: center;">Detection results of a detector trained on our proposed dataset (SEU_PML) 
     </figcaption>
   </figure>
+
 
 * Zhou, W., Wang, C. * , Ge, Y., Wen, L., & Zhan, Y. (2023). **All-Day Vehicle Detection From Surveillance Videos Based on Illumination-Adjustable Generative Adversarial Network**. *IEEE Transactions on Intelligent Transportation Systems*.( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3328195"> [Paper]</a>
 
   <figure>
     <img src="/images/ALLDAY.png" alt="Your Figure" width="80%" height="auto">
-    <figcaption>Figure Name: Our IA-GAN could transform day-time images into synthetic nighttime images under divers illumination 
+    <figcaption> Our IA-GAN could transform day-time images into synthetic nighttime images under divers illumination 
     </figcaption>
   </figure>
 
@@ -41,13 +40,13 @@ These works provide an overview of the research of our team.
 
   <figure>
     <img src="/images/slider/image105.gif" alt="Your Figure"  width="80%" height="auto">
-    <figcaption>Figure Name: Detection Demo1 towards Road Accidents
+    <figcaption> Detection Demo1 towards Road Accidents
     </figcaption>
   </figure>
 
   <figure>
     <img src="/images/slider/image106.gif" alt="Your Figure" width="80%" height="auto" >
-    <figcaption>Figure Name: Detection Demo2 towards Road Accidents  
+    <figcaption>Detection Demo2 towards Road Accidents  
    	</figcaption>
   </figure>
 
@@ -64,7 +63,7 @@ These works provide an overview of the research of our team.
 
   <figure>
     <img src="/images/PIE.png" alt="Your Figure"  width="80%" height="auto">
-    <figcaption>Figure Name: Pedestrian Crossing Intention Prediction based on Interaction Modeling and Behavior Analysis
+    <figcaption> Pedestrian Crossing Intention Prediction based on Interaction Modeling and Behavior Analysis
     </figcaption>
   </figure>
 
@@ -78,7 +77,7 @@ These works provide an overview of the research of our team.
 
   <figure>
     <img src="/images/CRACK.png" alt="Your Figure"  width="80%" height="auto">
-    <figcaption>Figure Name: Few Shot Learning Framework for Crack Detection with Few Labeled Samples
+    <figcaption> Few Shot Learning Framework for Crack Detection with Few Labeled Samples
     </figcaption>
   </figure>
 
@@ -94,7 +93,7 @@ These works provide an overview of the research of our team.
 
 <figure>
   <img src="/images/SAM.png" alt="Your Figure" width="80%" height="auto">
-  <figcaption>Figure Name: Developing Parameter-efficient Transfer Learning Method on Segment-Anything-Model for Crack Segmentation
+  <figcaption>Developing Parameter-efficient Transfer Learning Method on Segment-Anything-Model for Crack Segmentation
   </figcaption>
 </figure>
 
