@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Hongpu Huang
-image: Huanghongpu.jpg
+image: huanghongpu.jpg
 role: Master's Student
 permalink: 'team/hongpuhuang'
 social:
