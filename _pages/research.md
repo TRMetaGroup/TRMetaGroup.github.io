@@ -19,7 +19,7 @@ These works provide an overview of the research of our team.
 * Zhou, W., Wang, C. * , Xia, J., Qian, Z., & Wu, Y. (2023). **Monitoring-based traffic participant detection in urban mixed traffic: A novel dataset and a tailored detector**. *IEEE Transactions on Intelligent Transportation Systems*. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3304288"> [Paper]</a>
 
   <figure>
-    <img src="/images/SEUPML.png" alt="Your Figure">
+    <img src="/images/SEUPML.png" alt="Your Figure" width="80%" height="auto">
     <figcaption>Figure Name: Detection results of a detector trained on our proposed dataset (SEU_PML) 
     </figcaption>
   </figure>
@@ -27,7 +27,7 @@ These works provide an overview of the research of our team.
 * Zhou, W., Wang, C. * , Ge, Y., Wen, L., & Zhan, Y. (2023). **All-Day Vehicle Detection From Surveillance Videos Based on Illumination-Adjustable Generative Adversarial Network**. *IEEE Transactions on Intelligent Transportation Systems*.( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3328195"> [Paper]</a>
 
   <figure>
-    <img src="/images/ALLDAY.png" alt="Your Figure">
+    <img src="/images/ALLDAY.png" alt="Your Figure" width="80%" height="auto">
     <figcaption>Figure Name: Our IA-GAN could transform day-time images into synthetic nighttime images under divers illumination 
     </figcaption>
   </figure>
@@ -38,13 +38,13 @@ These works provide an overview of the research of our team.
 * Zhou, W. Wen, L., Zhan, Y., & Wang, C. *  (2023). **An appearance-motion network for vision-based crash detection: Improving the accuracy in congested traffic**. *IEEE transactions on intelligent transportation systems*.  ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3297589"> [Paper]</a>
 
   <figure>
-    <img src="/images/slider/image105.gif" alt="Your Figure" >
+    <img src="/images/slider/image105.gif" alt="Your Figure"  width="80%" height="auto">
     <figcaption>Figure Name: Detection Demo1 towards Road Accidents
     </figcaption>
   </figure>
 
   <figure>
-    <img src="/images/slider/image106.gif" alt="Your Figure" >
+    <img src="/images/slider/image106.gif" alt="Your Figure" width="80%" height="auto" >
     <figcaption>Figure Name: Detection Demo2 towards Road Accidents  
    	</figcaption>
   </figure>
@@ -61,7 +61,7 @@ These works provide an overview of the research of our team.
 * Zhou, W., Liu, Y., Zhao, L., Xu, S., & Wang, C. (2023). **Pedestrian Crossing Intention Prediction From Surveillance Videos for Over-the-Horizon Safety Warning**. <i> IEEE Transactions on Intelligent Transportation Systems</i>. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3314051"> [Paper]</a>
 
   <figure>
-    <img src="/images/PIE.png" alt="Your Figure" >
+    <img src="/images/PIE.png" alt="Your Figure"  width="80%" height="auto">
     <figcaption>Figure Name: Pedestrian Crossing Intention Prediction based on Interaction Modeling and Behavior Analysis
     </figcaption>
   </figure>
@@ -75,7 +75,7 @@ These works provide an overview of the research of our team.
 * <u>Zhou, W.</u>, Zhan, Y., Zhang, H., Zhao, L., & Wang, C. (2022). **Road defect detection from on-board cameras with scarce and cross-domain data**. *Automation in Construction*, 144, 104628.  ( **JCR Q1, IF =10.3** )<a href="https://doi.org/10.1016/j.autcon.2022.104628"> [Paper]</a>
 
   <figure>
-    <img src="/images/CRACK.png" alt="Your Figure" >
+    <img src="/images/CRACK.png" alt="Your Figure"  width="80%" height="auto">
     <figcaption>Figure Name: Few Shot Learning Framework for Crack Detection with Few Labeled Samples
     </figcaption>
   </figure>
@@ -91,7 +91,7 @@ These works provide an overview of the research of our team.
 * <u>Zhou, W.</u>, Huang, H., Zhang, H.,  & Wang, C. * . **Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras**. <i> IEEE Transactions on Intelligent Transportation Systems. </i> ( **JCR Q1, IF =8.5** )   (Major Revision)
 
 <figure>
-  <img src="/images/SAM.png" alt="Your Figure" >
+  <img src="/images/SAM.png" alt="Your Figure" width="80%" height="auto">
   <figcaption>Figure Name: Developing Parameter-efficient Transfer Learning Method on Segment-Anything-Model for Crack Segmentation
   </figcaption>
 </figure>
