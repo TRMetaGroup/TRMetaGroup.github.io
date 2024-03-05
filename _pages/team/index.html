@@ -34,7 +34,7 @@ permalink: /team/
 {% endfor %}
 
 <style>
-    .row {
+    .students-row {
         display: flex;
         flex-wrap: wrap;
         align-items: flex-end; /* 底部对齐 */
@@ -57,10 +57,9 @@ permalink: /team/
 </style>
 
 <!-- Students -->
-<!-- Students -->
 
 <h2><a id="student"></a>Students</h2>
-<div class="row">
+<div class="students-row">
     {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
     {% for member in members %}
     <div class="col-md-4">
