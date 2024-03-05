@@ -34,6 +34,17 @@ permalink: /team/
 {% endfor %}
 
 <style>
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end; /* 底部对齐 */
+    }
+
+    .col-md-4 {
+        flex: 0 0 33.333%;
+        max-width: 33.333%;
+    }
+
     .team-member-card {
         display: flex;
         flex-direction: column;
