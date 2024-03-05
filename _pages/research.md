@@ -18,6 +18,8 @@ These works provide an overview of the research of our team.
 
 * Zhou, W., Wang, C. * , Xia, J., Qian, Z., & Wu, Y. (2023). **Monitoring-based traffic participant detection in urban mixed traffic: A novel dataset and a tailored detector**. *IEEE Transactions on Intelligent Transportation Systems*. ( **JCR Q1, IF =8.5** )<a href="https://doi.org/10.1109/TITS.2023.3304288"> [Paper]</a>
 
+![这是一张图片](/images/SEUPML.png "Detection results of a detector trained on our proposed dataset (SEU_PML) ")
+
   <figure>
     <img src="/images/SEUPML.png" alt="Your Figure" width="80%" height="auto">
     <figcaption>Figure Name: Detection results of a detector trained on our proposed dataset (SEU_PML) 
