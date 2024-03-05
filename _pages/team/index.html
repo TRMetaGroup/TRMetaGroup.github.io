@@ -33,6 +33,18 @@ permalink: /team/
 </div>
 {% endfor %}
 
+<style>
+    .team-member-card {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .card-body {
+        flex-grow: 1;
+    }
+</style>
+
 <!-- Students -->
 
 <h2><a id="student"></a>Students</h2>
@@ -41,25 +53,17 @@ permalink: /team/
     {% for member in members %}
     <div class="col-md-4">
         <div class="card team-member-card">
-            <div class="row mt-3">
-                <div class="col-md-12">
-                    <a href={{member.url}}>
-                        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                            class="card-img img-responsive img-thumbnail"
-                            style="max-width: 100px;"/>
-                    </a>
-                </div>
-
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <h4 class="card-title">{{ member.title }}</h4>
-                        <p class="card-text">{{ member.role }}</p>
-                    </div>
-                </div>
+            <a href={{member.url}}>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="max-width: 100px;"/>
+            </a>
+            <div class="card-body">
+                <h4 class="card-title">{{ member.title }}</h4>
+                <p class="card-text">{{ member.role }}</p>
             </div>
         </div>
     </div>
     {% endfor %}
 </div>
-
 
