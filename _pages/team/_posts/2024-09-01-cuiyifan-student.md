@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Cui Yifan
 image: yifancui.png
-role: B.S. Student
+role: B.S Student
 permalink: 'team/cuiyifan'
 social:
     github: https://treeffff.github.io/
