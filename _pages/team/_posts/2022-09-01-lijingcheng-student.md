@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Lijing Cheng
 image: lijingcheng.jpg
-role: master's student
+role: M.S. Student
 permalink: 'team/lijingcheng'
 education:
  - School of Transportation, Southeast University, Master’s, 2022.08-present

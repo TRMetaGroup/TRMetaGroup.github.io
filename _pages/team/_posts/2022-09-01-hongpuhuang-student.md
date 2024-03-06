@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Hongpu Huang
 image: huanghongpu.jpg
-role: Master's Student
+role: M.S. Student
 permalink: 'team/hongpuhuang'
 social:
     google-scholar: https://scholar.google.com.hk/citations?user=pJQ6KKsAAAAJ&hl=zh-CN

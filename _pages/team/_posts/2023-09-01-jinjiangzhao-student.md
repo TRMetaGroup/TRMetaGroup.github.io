@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Jinjiang  Zhao
 image: jingjiangzhang.jpg
-role: Master Student
+role: M.S. Student
 permalink: 'team/jinjiangzhao'
 education:
  - School of Transportation, Southeast University, Master, 2023.09-2026.06 (expected)

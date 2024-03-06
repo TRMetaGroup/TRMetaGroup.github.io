@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Yuqing Liu
 image: yuqingliu.jpg
-role: Master Student
+role: M.S. Student
 permalink: 'team/liuyuqing'
 social:
     research-gate: https://www.researchgate.net/profile/Yuqing-Liu-66
