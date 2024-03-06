@@ -10,15 +10,14 @@ permalink: /
 
 TR Meta Lab, established by Professor <a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>，is affiliated with the Intelligent Transportation Systems Research Center and the School of Transportation at Southeast University. The discipline it belongs to, Transportation Engineering, consistently ranks first nationwide in the Ministry of Education's discipline assessment.
 
-  <figure>
-    <img src="/images/logo/logo.png" alt="Your Figure" width="100%" height="auto">
-  </figure>
 
-#### 人员组成
+<img src="/images/logo/logo.png" alt="Your Figure" style="width: 100%;">
 
-TR Meta Lab consists of a team comprising a professor (fully)（<a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>）,  6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
+#### Personnel Composition
 
-#### 研究方向
+TR Meta Lab consists of a team comprising a professor (fully)<a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>,  6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
+
+#### Research Directions
 
 The main research directions of TR Meta Lab include but are not limited to:
 
@@ -28,14 +27,12 @@ The main research directions of TR Meta Lab include but are not limited to:
 
 * Intelligent/Autonomous driving： 
 
-#### 成果产出
+#### Research Output
 
 Under the leadership of Wang, the lab has published **over 70 journal articles**  in top-tier journals such as *IEEE Transactions on Intelligent Transportation Systems*, *Transportation Research Part C/F, Accident Analysis and Prevention*, and *Automation in Construction* , as well as presented more than **20 conference papers** (such as Transportation Research Board Annual Meeting) and related reports at international conferences. Additionally, the team has been granted/published **30 Chinese invention patents** and authored a Chinese textbook titled 'Road Traffic Visual Perception Technology and Applications'.
 
-  <figure>
-    <img src="/images/result.png" alt="Your Figure" width="100%" height="auto">
-  </figure>
 
+<img src="/images/result.png" alt="Your Figure" style="width: 100%;">
 
 #### Research Projects
 
