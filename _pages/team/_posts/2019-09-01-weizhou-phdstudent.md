@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phdstudent
 title: Wei Zhou
 image: weizhou.jpg
 role: PhD Student

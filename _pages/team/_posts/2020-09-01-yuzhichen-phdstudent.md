@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phdstudent
 title: Yuzhi Chen
 image: yuzhichen.jpg
 role: PhD Student

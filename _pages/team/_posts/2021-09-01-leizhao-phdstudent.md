@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phdstudent
 title: Lei Zhao
 image: leizhao.png
 role: PhD Student
