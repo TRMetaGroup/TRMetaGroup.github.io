@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Faqi Liu
 image: faqiliu.jpg
-role: master Student
+role: M.S. Student
 permalink: 
 social:
     
