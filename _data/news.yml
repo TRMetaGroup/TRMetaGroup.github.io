@@ -8,7 +8,7 @@
     emphasizing the critical role of damping characteristics in longitudinal control. 
     By integrating an Adaptive Cruise Control model with damping behavior analysis, 
     our research highlights the importance of prioritizing safety alongside stability in AV operations. 
-    Published findings in Accident Analysis and Prevention shed light on optimal control parameters for enhanced safety in autonomous vehicle systems
+    Published findings in Accident Analysis and Prevention shed light on optimal control parameters for enhanced safety in autonomous vehicle systems.
     
   image: "images/2024AAP.png"
   
@@ -22,8 +22,9 @@
     Addressing the challenge of nighttime conditions, we present a novel framework, utilizing an illumination-adjustable GAN (IA-GAN) for all-day vehicle detection.
     By transforming daytime images into diverse nighttime scenarios, our framework, coupled with the Day-Night Balanced EfficientDet (DNBED) detector, 
     showcases superior performance in vehicle detection across all lighting conditions. 
-    The privacy-sanitized dataset and model are open-sourced, revolutionizing the field of surveillance video analysis
-
+    The privacy-sanitized dataset and model are open-sourced, revolutionizing the field of surveillance video analysis.
+  image: "images/2023Allday.png"
+  
 - date: 2023-09-22
   title: "Our latest research on pedestrian crossing intention prediction is published on IEEE T-ITS!"
   tags:
@@ -34,3 +35,16 @@
     enhancing pedestrian safety with over-the-horizon warnings. Introducing an innovative learning framework with a pedestrian-centric environment graph and Graph Convolutional Network (GCN) technology,
     our model excels in capturing visual variations and spatiotemporal relationships for accurate intention prediction. 
     By surpassing existing methods, our framework showcases superior performance and sets a new standard in pedestrian safety research.
+  image: "images/2023PIE.png"
+
+- date: 2023-08-22
+  title: "Our latest research on traffic participant detection is published on IEEE T-ITS!"
+  tags:
+    - some
+    - tags
+  content: |
+    Our team introduces a game-changing solution in urban mixed traffic participant detection.
+    Leveraging the SEU_PML dataset and the innovative YOLO SOD detector, 
+    we address the challenge of detecting small objects with increased accuracy and efficiency. 
+    Discover our cutting-edge approach and access the SEU_PML dataset at https://github.com/vvgoder/SEU_PML_Dataset.
+  image: "images/2023Dataset.png"
