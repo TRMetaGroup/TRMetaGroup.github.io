@@ -17,12 +17,11 @@ permalink: /publications/
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
             <!-- authors -->
-            {% assign author_names = "" %}
+            {% assign authors = "" | split:"/" %}
             {% for author in publi.author %}
-                {% assign full_name = author.given | append: " " | append: author.family %}
-                {% assign author_names = author_names | append: full_name | append: ", " %}
+                {% assign authors = authors | push: author.given | append: " " | append: author.family %}
             {% endfor %}
-            {{ author_names | slice: 0, -2 }},
+            {{ authors | array_to_sentence_string }},
 
             <!-- title with link -->
             "{{ publi.title }}",
@@ -31,7 +30,7 @@ permalink: /publications/
             <b>{{ publi.container-title }}</b>
 
             <!-- issued date -->
-            ({{ publi.issued.date-parts.0.0 }}),
+            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
 
             <!-- DOI -->
             {% if publi.DOI %}
@@ -45,7 +44,7 @@ permalink: /publications/
                 <p>{{ publi.abstract }}</p>
 
                 <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                   role="button" target="_blank">Link</a>
+                   role="button" target="blank">Link</a>
             </div>
         </div>
         
@@ -53,6 +52,7 @@ permalink: /publications/
     {% endfor %}
     </div>
 </div>
+
 
 
 
