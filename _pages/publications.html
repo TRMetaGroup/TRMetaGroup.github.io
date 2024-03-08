@@ -19,7 +19,8 @@ permalink: /publications/
             <!-- authors -->
             {% assign author_names = "" %}
             {% for author in publi.author %}
-                {% assign author_names = author_names | append: author.family | append: ", " %}
+                {% assign full_name = author.given | append: " " | append: author.family %}
+                {% assign author_names = author_names | append: full_name | append: ", " %}
             {% endfor %}
             {{ author_names | slice: 0, -2 }},
 
@@ -52,6 +53,7 @@ permalink: /publications/
     {% endfor %}
     </div>
 </div>
+
 
 
 
