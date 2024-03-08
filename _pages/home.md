@@ -9,14 +9,14 @@ permalink: /
 
 ### About the Lab
 
-TR Meta Lab, established by Professor <a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>，is affiliated with the Intelligent Transportation Systems Research Center and the School of Transportation at Southeast University. The discipline it belongs to, Transportation Engineering, consistently **ranks first nationwide** in the Ministry of Education's discipline assessment.
+TR Meta Lab, established by Professor <a href="https://trmetagroup.github.io/team/ChenWang"> [Chen Wang]</a>，is affiliated with the Intelligent Transportation Systems Research Center and the School of Transportation at Southeast University. The discipline it belongs to, Transportation Engineering, consistently **ranks first nationwide** in the Ministry of Education's discipline assessment.
 
 
 <img src="/images/logo/logo.png" alt="Your Figure" style="width: 100%;">
 
 #### 1. Personnel Composition
 
-TR Meta Lab consists of a team comprising a professor (fully)<a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>,  6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
+TR Meta Lab consists of a team comprising a professor (fully)<a href="https://trmetagroup.github.io/team/ChenWang"> [Chen Wang]</a>,  6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
 
 #### 2. Research Directions
 
