@@ -25,7 +25,9 @@ The main research directions of TR Meta Lab include but are not limited to:
 
 * **Active traffic safety**： with a commitment to explore every available avenue for reducing fatalities and serious injuries on roadways. The team's focus lies in analyzing crash factors, uncovering the coupling relationship related to driving behavior, road alignment/environment, etc., and utilizing safety indicators to measure the spatial and/or temporal proximity of safety-critical events. Moreover, the team is dedicated to providing active intervention and risk alerting for high-risk scenarios by integrating V2X and ADAS technology, thus providing invaluable insights for crash prevention and roadway design.
 
-* **Intelligent/Autonomous driving**： 
+* **Intelligent/Autonomous driving**： mainly involved in autonomous driving safety analysis and perception. The autonomous driving safety analysis focuses on crash risk measure as well as risky driving behavior & safety, while perception leans towards pedestrian crossing intention recognition, trajectory prediction, and accident prediction from the in-vehicle perspective.
+
+  <img src="/images/direction.png" alt="Your Figure" style="width: 100%;">
 
 #### 3. Research Output
 
