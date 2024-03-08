@@ -1,7 +1,7 @@
 ---
 layout: member
 category: student
-title: Cui Yifan
+title: Yifan Cui 
 image: yifancui.png
 role: B.S Student
 permalink: 'team/cuiyifan'
