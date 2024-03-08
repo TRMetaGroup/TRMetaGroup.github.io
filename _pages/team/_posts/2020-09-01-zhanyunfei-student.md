@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Yunfei Zhan
-image: zhanyunfei.jpg
+image: yunfeizhan.jpg
 role: M.S. Student (Graduated)
 permalink: 'team/zhanyunfei'
 social:
