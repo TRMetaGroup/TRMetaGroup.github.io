@@ -19,10 +19,10 @@ permalink: /publications/
             <!-- authors -->
             {% assign authors = "" | split:"/" %}
             {% for author in publi.author %}
-					{% assign authors = authors | push: author.given | push: author.family%}
+                {% assign full_name = author.given | append: " " | append: author.family %}
+                {% assign authors = authors | push: full_name %}
             {% endfor %}
             {{ authors | array_to_sentence_string }},
-
             <!-- title with link -->
             "{{ publi.title }}",
 
