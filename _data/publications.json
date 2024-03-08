@@ -1,37 +1,352 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "wc-1",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"title": "A review of surrogate safety measures and their applications in connected and automated vehicles safety modeling",
+		"container-title": "Accident Analysis & Prevention",
+		"page": "106157",
+		"volume": "157",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Surrogate Safety Measures (SSM) are important for safety performance evaluation, since crashes are rare events and historical crash data does not capture near crashes that are also critical for improving safety. This paper focuses on SSM and their applications, particularly in Connected and Automated Vehicles (CAV) safety modeling. It aims to provide a comprehensive and systematic review of significant SSM studies, identify limitations and opportunities for future SSM and CAV research, and assist researchers and practitioners with choosing the most appropriate SSM for safety studies. The behaviors of CAV can be very different from those of Human-Driven Vehicles (HDV). Even among CAV with different automation/connectivity levels, their behaviors are likely to differ. Also, the behaviors of HDV can change in response to the existence of CAV in mixed autonomy traffic. Simulation by far is the most viable solution to model CAV safety. However, it is questionable whether conventional SSM can be applied to modeling CAV safety based on simulation results due to the lack of sophisticated simulation tools that can accurately model CAV behaviors and SSM that can take CAV’s powerful sensing and path prediction and planning capabilities into crash risk modeling, although some researchers suggested that proper simulation model calibration can be helpful to address these issues. A number of critical questions related to SSM for CAV safety research are also identified and discussed, including SSM for CAV trajectory optimization, SSM for individual vehicles and vehicle platoon, and CAV as a new data source for developing SSM.",
+		"DOI": "10.1016/j.aap.2021.106157",
 		"author": [
 			{
-				"family": "Naylor",
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xie",
+				"given": "Y."
+			},
+			{
+				"family": "Huang",
+				"given": "H."
+			},
+			{
+				"family": "Liu",
 				"given": "P."
-			},
-			{
-				"family": "Laé",
-				"given": "M."
-			},
-			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
+					"2021",
+					2
+				]
+			]
+		}
+	}
+]
+
+[
+	{
+		"id": "wc-2",
+		"type": "article-journal",
+		"title": "A crash prediction method based on bivariate extreme value theory and video-based vehicle trajectory data",
+		"container-title": "Accident Analysis & Prevention",
+		"page": "365-373",
+		"volume": "123",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Traditional statistical crash prediction models oftentimes suffer from poor data quality and require large amount of historical data. In this paper, we propose a crash prediction method based on a bivariate extreme value theory (EVT) framework, considering both drivers’ perception-reaction failure and failure to proper evasive actions. An unmanned aerial vehicle (UAV) was utilized to collect videos of ten intersections in Fengxian, China, at representative time periods. High-resolution vehicle trajectory data were extracted by a Kanade-Lucas-Tomasi (KLT) technique, based on four detailed metrics were derived including Time-to-accident (TA), Post-encroachment Time (PET), minimum Time-to-collision (mTTC), and Maximum Deceleration Rate (MaxD). TA was expected to capture the chance of perception-reaction failure, while other three metrics were used to measure the probability of failure to proper evasive actions. Univariate EVT models were applied to obtain marginal crash probability based on each metric. Bivariate EVT models were developed to obtain joint crash probability based on three pairs: TA and mTTC, TA and PET, and TA and MaxD. Thus, union crash probability within observation periods can be derived and the annual crash frequency of each intersection was predicted. The predictions were compared to actual annual crash frequencies, using multiple tests. The findings are three-folds: 1. The best conflict metrics for angle and rear-end crash predictions were different; 2. Bivariate EVT models were found to be superior to univariate models, regarding both angle and rear-end crash predictions; 3. TA appeared to be an important conflict metric that should be considered in a bivariate EVT model framework. In general, the proposed method can be considered as a promising tool for safety evaluation, when crash data are limited.",
+		"DOI": "10.1016/j.aap.2018.12.013",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Dai",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2
+				]
+			]
+		}
+	}
+]
+
+
+
+[
+	{
+		"id": "1",
+		"type": "article-journal",
+		"title": "All-day Vehicle Detection from Surveillance Videos Based on Illumination-adjustable Generative Adversarial Network",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": " 1 - 15",
+		"volume": "N/A",
+		"issue": "N/A",
+		"source": "IEEE Xplore",
+		"abstract": "Vehicle detection from surveillance videos is of great significance for various Intelligent Transportation System (ITS) applications. However, existing deep learning methods oftentimes fail under nighttime conditions on account of the lack of sufficient labeled nighttime data. To fill this gap, this paper proposes a novel framework for all-day vehicle detection, by introducing an illumination-adjustable GAN (IA-GAN). The IA-GAN transforms labeled daytime images into multiple nighttime images with diverse illumination, using an adjustable illumination vector as input. Notably, we utilize gray histogram distributions to automatically generate illumination labels, by which IA-GAN gains the knowledge of simulating lights. Following that, we construct a large dataset containing both labeled daytime images and all generated synthetic nighttime images with bounding box labels. Finally, a detector named Day-Night Balanced EfficientDet (DNBED) is developed for all-day vehicle detection. The experiments show that the proposed framework yields promising performance for all-day vehicle detection and competitive results for nighttime vehicle detection compared to existing GANs, indicating the effectiveness of proposed framework. The privacy-sanitized image data and its corresponding labels will be made publicly available at https://github.com/vvgoder/SEU_PML_Dataset.",
+		"DOI": "10.1109/TITS.2023.3328195",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Ge",
+				"given": "Y."
+			},
+			{
+				"family": "Wen",
+				"given": "L."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	}
+]
+
+
+[
+	{
+		"id": "2",
+		"type": "article-journal",
+		"title": "Pedestrian Crossing Intention Prediction from Surveillance Videos for Over-the-horizon Safety Warning",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "  1394 - 1407",
+		"volume": "25",
+		"issue": "2",
+		"source": "IEEE Xplore",
+		"abstract": "Pedestrian crossing intention prediction could effectively prevent traffic injuries and improve pedestrian safety. This paper focuses on pedestrian crossing intention prediction from surveillance cameras, which could provide over-the-horizon safety warnings and has the potential to better ensure pedestrian safety, compared with that from on-board cameras. However, most prediction-based methods are designed with a fundamental assumption that the visual data is collected from an on-board camera rather than a bird-eye-view one, thus the prevalent methods in this research domain do not match surveillance scenarios. To deal with this issue, an automated learning framework is proposed, in which a pedestrian-centric environment graph is primarily constructed to reflect visual variations and spatiotemporal relationships between pedestrians and their surroundings. After that, a Graph Convolutional Network (GCN) based environment encoder and a pedestrian-state encoder are designed to extract prominent environment features and pedestrian behavior features, respectively. Finally, an intention prediction decoder is developed to extrapolate the probability of crossing intention. Experimental results demonstrate that each component in the framework contributes to performance improvement and their combination obtains state-of-the-art performance, suggesting the effectiveness and superiority of our framework.",
+		"DOI": "10.1109/TITS.2023.3314051",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Liu",
+				"given": "Y."
+			},
+			{
+				"family": "Zhao",
+				"given": "L."
+			},
+			{
+				"family": "Xu",
+				"given": "S."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	}
+]
+
+
+[
+	{
+		"id": "3",
+		"type": "article-journal",
+		"title": "Monitoring-based Traffic Participant Detection in Urban Mixed Traffic: A Novel Dataset and A Tailored Detector",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "189 - 202",
+		"volume": "25",
+		"issue": "1",
+		"source": "IEEE Xplore",
+		"abstract": "Monitoring-based traffic participant detection (TPD) is a highly desirable but challenging task. So far, deep learning-based methods have attained significant improvements on the TPD task, but oftentimes fail in urban mixed traffic due to the lack of relevant datasets and suitable detectors. In this study, we propose a large and detailed dataset named SEU_PML specialized for monitoring-based TPD in urban mixed traffic. This dataset contains a total of 270,684 objects annotated with 2D bounding box and covers 13 sub-categories, having (i) high-resolution images (from 1920×1080 to 4096×2160 pixels), (ii) high-quality annotation (annotation accuracy reaches 98%), and (iii) rich traffic scenarios covering diverse traffic scenes as well as different weather and illumination conditions. The mixed traffic along with high-quality annotation bring about a variety of small objects. To further address the issue on small object detection, we propose a novel detector named YOLO SOD, which embeds a super-resolution feature extraction module and uses knowledge distillation to learn the knowledge how the detector with high-resolution inputs perceives small objects. Moreover, a novel loss function named S-IoU is designed to enable YOLO SOD to focus more on small objects. Experimental results show that (1) the YOLO SOD detector has an increased mAP of 1.58% and operates approximately four times faster when compared to a state-of-art detector; (2) the detectors trained on the SEU_PML dataset have a strong transferability and could be well applied to traffic participant detection in urban mixed traffic. Our dataset is now available at https://github.com/vvgoder/SEU_PML_Dataset .",
+		"DOI": "10.1109/TITS.2023.3304288",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Qian",
+				"given": "Z."
+			},
+			{
+				"family": "Wu",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	}
+]
+
+[
+	{
+		"id": "4",
+		"type": "article-journal",
+		"title": "An Appearance-Motion Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "13742 - 13755",
+		"volume": "24",
+		"issue": "12",
+		"source": "IEEE Xplore",
+		"abstract": "Crash detection is of great significance for traffic emergency management. Video-based approaches can effectively save the manpower monitoring cost and have achieved promising results in recent studies. However, they sometimes fail to correctly identify crashes in congested traffic. To fill the gap, this paper proposes a novel appearance-motion network for improving video-based crash detection performance in congested traffic. The appearance-motion network utilizes two paralleled convolutional networks (i.e., an appearance network and a motion network) to extract both appearance features and motion features of crashes. To learn discriminative appearance features for differentiating crashes in congested traffic scene (CCT) with non-crashes in congested traffic scene (NCCT), an auxiliary network combined with a triplet loss are introduced to train the appearance network. To better capture crash motion features in congested traffic, an optical flow learner is built in the motion network and trained to extract more fine-grained motion information. Moreover, a temporal attention module is applied to enable the motion network to focus on valuable frames. Experimental results show that the proposed network achieves a state-of-the-art result on crash detection and the introduction of the three components (i.e., the auxiliary network, the optical flow learner and the temporal attention module) effectively reduces false alarm rate by 28.07% and miss rate by 27.08% on crash detection in congested traffic. Our dataset will be available at https://github.com/vvgoder/Dataset_for_crashdetection.",
+		"DOI": "10.1109/TITS.2023.3297589",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Wen",
+				"given": "L."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	}
+]
+
+[
+	{
+		"id": "5",
+		"type": "article-journal",
+		"title": "An Automated Learning Framework With Limited and Cross-Domain Data for Traffic Equipment Detection From Surveillance Videos",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "24891 - 24903",
+		"volume": "23",
+		"issue": "12",
+		"source": "IEEE Xplore",
+		"abstract": "Traffic equipment detection from surveillance videos is of practical significance for temporary traffic element update in high-precision maps. However, there is little relative research developed due to limited labeled data. Based on a detector dubbed Faster R-CNN, we propose an automated learning framework that utilizes easy-to-obtain Internet images containing traffic equipment to acquire the capability of detecting traffic equipment from surveillance videos. In this framework, an appearance weighting module using a comprehensive feature aggregation method is designed to allow Faster R-CNN to converge and generalize quickly by taking limited data (i.e., less than 30 images per class) as input. To further address the cross-domain issue brought by the domain gap between the Internet images and the surveillance video frames, a domain adaptation learning scheme is developed, which aims to align the two domains and guide the framework to learn more robust domain-invariant features. Experimental results show that both the appearance weighting module and the domain adaptation learning scheme could bring a great performance improvement. Moreover, the combination of the two results in a state-of-the-art performance (mAP of 44.6%) even if only 30 training images per class are provided. To sum up, the proposed framework is suitable for traffic equipment detection from surveillance videos and provides an inspiration for other detection tasks with limited and cross-domain data, allowing humans to reduce their efforts and time required for arduous data collection and annotation.",
+		"DOI": "10.1109/TITS.2022.3195509",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Liu",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Dai",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	}
+]
+
+[
+	{
+		"id": "6",
+		"type": "article-journal",
+		"title": "An Automated Learning Framework With Limited and Cross-Domain Data for Traffic Equipment Detection From Surveillance Videos",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "24891 - 24903",
+		"volume": "23",
+		"issue": "12",
+		"source": "IEEE Xplore",
+		"abstract": "Traffic equipment detection from surveillance videos is of practical significance for temporary traffic element update in high-precision maps. However, there is little relative research developed due to limited labeled data. Based on a detector dubbed Faster R-CNN, we propose an automated learning framework that utilizes easy-to-obtain Internet images containing traffic equipment to acquire the capability of detecting traffic equipment from surveillance videos. In this framework, an appearance weighting module using a comprehensive feature aggregation method is designed to allow Faster R-CNN to converge and generalize quickly by taking limited data (i.e., less than 30 images per class) as input. To further address the cross-domain issue brought by the domain gap between the Internet images and the surveillance video frames, a domain adaptation learning scheme is developed, which aims to align the two domains and guide the framework to learn more robust domain-invariant features. Experimental results show that both the appearance weighting module and the domain adaptation learning scheme could bring a great performance improvement. Moreover, the combination of the two results in a state-of-the-art performance (mAP of 44.6%) even if only 30 training images per class are provided. To sum up, the proposed framework is suitable for traffic equipment detection from surveillance videos and provides an inspiration for other detection tasks with limited and cross-domain data, allowing humans to reduce their efforts and time required for arduous data collection and annotation.",
+		"DOI": "10.1109/TITS.2022.3195509",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Liu",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Dai",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
 					2
 				]
 			]
