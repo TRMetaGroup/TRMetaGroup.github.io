@@ -4,7 +4,7 @@ category: student
 title: Faqi Liu
 image: faqiliu.jpg
 role: M.S. Student
-permalink: 
+permalink: 'team/faqiliu'
 social:
     
 education:

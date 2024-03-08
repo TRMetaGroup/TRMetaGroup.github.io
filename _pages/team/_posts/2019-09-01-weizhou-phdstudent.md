@@ -19,7 +19,7 @@ email:
  - vvgod@seu.edu.cn
 ---
 
- Wei Zhou is a Ph.D. candidate at Southeast University, advised by Prof. [Chen Wang](https://tc.seu.edu.cn/2019/1022/c25722a292001/pagem.htm). He is currently in the fourth year of his doctoral studies, expected to graduate before March 2025.
+ Wei Zhou is a Ph.D. candidate at Southeast University, advised by Prof. [Chen Wang]((https://trmetagroup.github.io/team/weizhou)). He is currently in the fourth year of his doctoral studies, expected to graduate before March 2025.
 
 As of now, he has published/accepted a total of **25 academic papers**, including both journal and conference papers. It is important to note that he has published  **11 papers** as the **first author/corresponding author in top journals**, such as *IEEE Transactions on Intelligent Transportation Systems* and *Automation in Construction*, with **9** of these papers in **JCR Q1** journals, including **5** papers published in **IEEE TITS** as **the first author**.
 
