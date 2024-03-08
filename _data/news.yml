@@ -1,21 +1,20 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 20/01/2024
+  title: "Our latest research on AV longitudinal control modeling and safety evaluation is published on Accident Analysis and Prevention!"
   tags:
-    - some
+    - paper
     - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+  content: Our team unveils a groundbreaking study on AV safety and stability, emphasizing the critical role of damping characteristics in longitudinal control. By integrating an Adaptive Cruise Control model with damping behavior analysis, our research highlights the importance of prioritizing safety alongside stability in AV operations. Published findings in Accident Analysis and Prevention shed light on optimal control parameters for enhanced safety in autonomous vehicle systems
 
-- date: 03/09/19
-  title: "Something great"
+- date: 07/11/2023
+  title: "Our latest research on nighttime image enhancement is published on IEEE T-ITS!"
   tags:
-    - some
+    - paper
     - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+  content:Our team introduces a groundbreaking approach in vehicle detection for Intelligent Transportation Systems. Addressing the challenge of nighttime conditions, we present a novel framework, utilizing an illumination-adjustable GAN (IA-GAN) for all-day vehicle detection. By transforming daytime images into diverse nighttime scenarios, our framework, coupled with the Day-Night Balanced EfficientDet (DNBED) detector, showcases superior performance in vehicle detection across all lighting conditions. The privacy-sanitized dataset and model are accessible at https://github.com/vvgoder/SEU_PML_Dataset, revolutionizing the field of surveillance video analysis
+
+- date: 22/09/2023
+  title: "Our latest research on pedestrian intention prediction is published on IEEE T-ITS!"
+  tags:
+    - paper
+    - tags
+  content:Our team pioneers pedestrian crossing intention prediction using surveillance cameras, enhancing pedestrian safety with over-the-horizon warnings. Introducing an innovative learning framework with a pedestrian-centric environment graph and Graph Convolutional Network (GCN) technology, our model excels in capturing visual variations and spatiotemporal relationships for accurate intention prediction. By surpassing existing methods, our framework showcases superior performance and sets a new standard in pedestrian safety research.
