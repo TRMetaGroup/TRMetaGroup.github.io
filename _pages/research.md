@@ -60,28 +60,28 @@ These works provide an overview of the research of our team.
 
   </figure>
 
-* Zhao, L., <u>Zhou, W.</u>, Xu, S., Chen, Yu., & Wang, C. * . **Multi-agent trajectory prediction at unsignalized intersections: an improved generative adversarial network accounting for collision avoidance behaviors**. <i> Transportation Research Part C </i> ( **JCR Q1, IF =8.3** ) (Minor Revision)
+* Zhao, L., Zhou, W., Xu, S., Chen, Yu., & Wang, C. * . **Multi-agent trajectory prediction at unsignalized intersections: an improved generative adversarial network accounting for collision avoidance behaviors**. <i> Transportation Research Part C </i> ( **JCR Q1, IF =8.3** ) (Minor Revision)
 
 
 
 ## Few-shot learning & Domain adaptation
 
-* <u>Zhou, W.</u>, Zhan, Y., Zhang, H., Zhao, L., & Wang, C. (2022). **Road defect detection from on-board cameras with scarce and cross-domain data**. *Automation in Construction*, 144, 104628.  ( **JCR Q1, IF =10.3** )<a href="https://doi.org/10.1016/j.autcon.2022.104628"> [Paper]</a>
+* Zhou, W., Zhan, Y., Zhang, H., Zhao, L., & Wang, C. (2022). **Road defect detection from on-board cameras with scarce and cross-domain data**. *Automation in Construction*, 144, 104628.  ( **JCR Q1, IF =10.3** )<a href="https://doi.org/10.1016/j.autcon.2022.104628"> [Paper]</a>
 
   <figure>
     <img src="/images/CRACK.png" alt="Your Figure"  width="80%" height="auto">
 
   </figure>
 
-* <u>Zhou, W.</u>, Liu, Y., Wang, C., Zhan, Y., Dai, Y., & Wang, R. (2022). **An automated learning framework with limited and cross-domain data for traffic equipment detection from surveillance videos**. *IEEE Transactions on Intelligent Transportation Systems*, 23(12), 24891-24903. ( **JCR Q1, IF =8.5** )  <a href="https://doi.org/10.1109/TITS.2022.3195509"> [Paper]</a>
+* Zhou, W., Liu, Y., Wang, C., Zhan, Y., Dai, Y., & Wang, R. (2022). **An automated learning framework with limited and cross-domain data for traffic equipment detection from surveillance videos**. *IEEE Transactions on Intelligent Transportation Systems*, 23(12), 24891-24903. ( **JCR Q1, IF =8.5** )  <a href="https://doi.org/10.1109/TITS.2022.3195509"> [Paper]</a>
 
-* <u>Zhou, W.</u>, Cui, Y., Huang, H., Huang, H., & Wang, C. (2024). **A fast and data-efficient deep learning framework for multi-class fruit blossom detection**. Computers and Electronics in Agriculture, 217, 108592.  ( **JCR Q1, IF =8.3** ) <a href="https://doi.org/10.1016/j.compag.2023.108592"> [Paper]</a>
+* Zhou, W., Cui, Y., Huang, H., Huang, H., & Wang, C. (2024). **A fast and data-efficient deep learning framework for multi-class fruit blossom detection**. Computers and Electronics in Agriculture, 217, 108592.  ( **JCR Q1, IF =8.3** ) <a href="https://doi.org/10.1016/j.compag.2023.108592"> [Paper]</a>
 
-* <u>Zhou, W.</u>, Zhao, L., Huang, H., Chen, Y., Xu, S., & Wang, C. (2023). **Automatic waste detection with few annotated samples: improving waste management efficiency**. Engineering Applications of Artificial Intelligence, 120, 105865.  ( **JCR Q1, IF =8.0** ) <a href="https://doi.org/10.1016/j.engappai.2023.105865"> [Paper]</a>
+* Zhou, W., Zhao, L., Huang, H., Chen, Y., Xu, S., & Wang, C. (2023). **Automatic waste detection with few annotated samples: improving waste management efficiency**. Engineering Applications of Artificial Intelligence, 120, 105865.  ( **JCR Q1, IF =8.0** ) <a href="https://doi.org/10.1016/j.engappai.2023.105865"> [Paper]</a>
 
 ## Large Models
 
-* <u>Zhou, W.</u>, Huang, H., Zhang, H.,  & Wang, C. * . **Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras**. <i> IEEE Transactions on Intelligent Transportation Systems. </i> ( **JCR Q1, IF =8.5** )   (Major Revision)
+* Zhou, W., Huang, H., Zhang, H.,  & Wang, C. * . **Teaching Segment-Anything-Model Domain-specific Knowledge for Road Crack Segmentation from On-board Cameras**. <i> IEEE Transactions on Intelligent Transportation Systems. </i> ( **JCR Q1, IF =8.5** )   (Major Revision)
 
 <figure>
   <img src="/images/SAM.png" alt="Your Figure" width="80%" height="auto">
