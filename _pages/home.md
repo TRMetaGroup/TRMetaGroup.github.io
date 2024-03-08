@@ -1,11 +1,3 @@
----
-title: "Home"
-layout: homelay
-excerpt: "TR Meta Lab at Southeast University"
-sitemap: false
-permalink: /
----
-
 ### About the Lab
 
 TR Meta Lab, established by Professor <a href="https://trmetagroup.github.io/team/researcher-name"> [Chen Wang]</a>，is affiliated with the Intelligent Transportation Systems Research Center and the School of Transportation at Southeast University. The discipline it belongs to, Transportation Engineering, consistently **ranks first nationwide** in the Ministry of Education's discipline assessment.
@@ -27,7 +19,8 @@ The main research directions of TR Meta Lab include but are not limited to:
 
 * **Intelligent/Autonomous driving**： mainly involved in autonomous driving safety analysis and perception. The autonomous driving safety analysis focuses on crash risk measure as well as risky driving behavior & safety, while perception leans towards pedestrian crossing intention recognition, trajectory prediction, and accident prediction from the in-vehicle perspective.
 
-  <img src="/images/direction.png" alt="Your Figure" style="width: 100%;">
+
+<img src="/images/direction.png" alt="Your Figure" style="width: 100%;">
 
 #### 3. Research Output
 
