@@ -19,7 +19,7 @@ permalink: /publications/
             <!-- authors -->
             {% assign author_names = "" | split:"/" %}
             {% for author in publi.author %}
-                {% assign authors = authors | push: author.given | append: " " | append: author.family %}
+                {% assign author_names = author_names | push: author.given | append: " " | append: author.family %}
             {% endfor %}
             {{ author_names | array_to_sentence_string }},
 
@@ -30,7 +30,7 @@ permalink: /publications/
             <b>{{ publi.container-title }}</b>
 
             <!-- issued date -->
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+            ({{ publi.issued.date-parts.0.0 }}),
 
             <!-- DOI -->
             {% if publi.DOI %}
