@@ -10,8 +10,7 @@ social:
 education:
  - School of Transportation, Southeast University, Phd, 2023.03-2027.03 (expected)
  - School of Transportation, Southeast University, M.S., 2020.06-2023.03
- - Maritime College,  Ningbo
-University,  Bachelor's, 2016.09-2020.06
+ - Maritime College,  Ningbo University,  Bachelor's, 2016.09-2020.06
 research_interest: 
   - microscopic traffic simulation and traffic safety
 email:
