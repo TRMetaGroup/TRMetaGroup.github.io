@@ -242,8 +242,8 @@
 				"given": "W."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Ge",
@@ -297,8 +297,8 @@
 				"given": "S."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -328,8 +328,8 @@
 				"given": "W."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Xia",
@@ -379,8 +379,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -416,8 +416,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Zhan",
@@ -465,7 +465,7 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
+				"family": "Wang*",
 				"given": "C."
 			},
 			{
@@ -519,8 +519,8 @@
 				"given": "L."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -565,8 +565,8 @@
 				"given": "S."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -595,8 +595,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Xie",
@@ -629,8 +629,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Xie",
@@ -675,8 +675,8 @@
 				"given": "H."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -714,8 +714,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			}
 		],
 		"issued": {
@@ -744,8 +744,8 @@
 				"given": "Y."
 			},
 			{
-				"family": "Wang",
-				"given": "C.*"
+				"family": "Wang*",
+				"given": "C."
 			},
 			{
 				"family": "Xu",
