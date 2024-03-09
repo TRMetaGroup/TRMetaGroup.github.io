@@ -72,10 +72,161 @@
 			]
 		}
 	}
-
 ,
 	{
-		"id": "1",
+		"id": "wc-3",
+		"type": "article-journal",
+		"title": "A combined use of microscopic traffic simulation and extreme value methods for traffic safety evaluation",
+		"container-title": "Transportation Research Part C",
+		"page": " 281-291",
+		"volume": "90",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "This paper proposes a combined usage of microscopic traffic simulation and Extreme Value Theory (EVT) for safety evaluation. Ten urban intersections in Fengxian District in Shanghai were selected in the study and three calibration strategies were applied to develop simulation models for each intersection: a base strategy with fundamental data input, a semi-calibration strategy adjusting driver behavior parameters based on Measures of Effectiveness (MOE), and a full-calibration strategy altering driver behavior parameters by both MOE and Measures of Safety (MOS). SSAM was used to extract simulated conflict data from vehicle trajectory files from VISSIM and video-based data collection was introduced to assist trained observers to collect field conflict data. EVT-based methods were then employed to model both simulated/field conflict data and derive the Estimated Annual Crash Frequency (EACF), used as Surrogate Safety Measures (SSM). PET was used for EVT measurement for three conflict types: crossing, rear-end, and lane change. EACFs based on three simulation calibration strategies were compared with field-based EACF, conventional SSM based on Traffic Conflict Techniques (TCT), and actual crash frequency, in terms of direct correlation, rank correlation, and prediction accuracy. The results showed that, MOS should be considered during simulation model calibration and EACF based on the full-calibration strategy appeared to be a better choice for simulation-based safety evaluation, compared to other candidate safety measures. In general, the combined usage of microscopic traffic simulation and EVT is a promising tool for safety evaluation.",
+		"DOI": "10.1016/j.trc.2018.03.011",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Qian",
+				"given": "Z."
+			},
+				{
+				"family": "Lu",
+				"given": "L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2
+				]
+			]
+		}
+	}
+,
+	{
+		"id": "wc-4",
+		"type": "article-journal",
+		"title": "Effects of traffic enforcement cameras on macro-level traffic safety: A spatial modeling analysis considering interactions with roadway and land use characteristics",
+		"container-title": Accident Analysis & Prevention",
+		"page": " 105659",
+		"volume": "144",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Nowadays, intelligent transportation system (ITS) planning has been often integrated into transportation planning stage. As a component of ITS, traffic enforcement cameras have been found to reduce dangerous behaviors, such as red-light running and speeding. However, with limited resource, it is important to understand the effects of enforcement cameras on macro-level safety, so that traffic policy-makers can better allocate those resources to improve traffic safety from the planning stage. In this paper, we examined the effects of various traffic enforcement cameras on regional traffic crash risk, considering their interactions with roadway and land use characteristics. The Kunshan city in Suzhou, China was selected in this study and a spatial modeling analysis was applied. According to the modeling results, several conclusions can be drawn: 1. Interaction effects on regional injury/PDO crash risk were found between traffic enforcement cameras and roadway/land use factors; 2. Traffic enforcement cameras were found to be associated with decreased regional crash risk. Among them, red-light running and speeding cameras were associated with the reduction of injury/PDO crash frequency, which can be further enhanced when being installed in certain area (e.g. industrial, commercial, residential land use) and on certain roadways (e.g. major arterials, local roads). Illegal lane changing cameras were associated with the decrease in PDO crash frequency, while such effect on reducing injury crashes was only found as significant on major arterials; 3. The main effects of certain land use and roadway factors appeared to be mediated by traffic enforcement interaction terms. For example, the main effect of industrialized land use was found as insignificant, while the interaction term between industrial area and speeding cameras showed a significant effect of reducing injury/PDO crash frequency. Based on those findings, traffic enforcement cameras, as one of the major components of ITS, need to be carefully considered at the transportation planning stage. In general, this study provides valuable information for policy-makers and transportation planners to improve regional traffic safety, by properly allocating traffic enforcement resources.",
+		"DOI": "10.1016/j.aap.2020.105659",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Fan",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2
+				]
+			]
+		}
+	}
+,
+		{
+		"id": "wc-5",
+		"type": "article-journal",
+		"title": "Effects of traffic enforcement cameras on macro-level traffic safety: A spatial modeling analysis considering interactions with roadway and land use characteristics",
+		"container-title": Accident Analysis & Prevention",
+		"page": " 105659",
+		"volume": "144",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Nowadays, intelligent transportation system (ITS) planning has been often integrated into transportation planning stage. As a component of ITS, traffic enforcement cameras have been found to reduce dangerous behaviors, such as red-light running and speeding. However, with limited resource, it is important to understand the effects of enforcement cameras on macro-level safety, so that traffic policy-makers can better allocate those resources to improve traffic safety from the planning stage. In this paper, we examined the effects of various traffic enforcement cameras on regional traffic crash risk, considering their interactions with roadway and land use characteristics. The Kunshan city in Suzhou, China was selected in this study and a spatial modeling analysis was applied. According to the modeling results, several conclusions can be drawn: 1. Interaction effects on regional injury/PDO crash risk were found between traffic enforcement cameras and roadway/land use factors; 2. Traffic enforcement cameras were found to be associated with decreased regional crash risk. Among them, red-light running and speeding cameras were associated with the reduction of injury/PDO crash frequency, which can be further enhanced when being installed in certain area (e.g. industrial, commercial, residential land use) and on certain roadways (e.g. major arterials, local roads). Illegal lane changing cameras were associated with the decrease in PDO crash frequency, while such effect on reducing injury crashes was only found as significant on major arterials; 3. The main effects of certain land use and roadway factors appeared to be mediated by traffic enforcement interaction terms. For example, the main effect of industrialized land use was found as insignificant, while the interaction term between industrial area and speeding cameras showed a significant effect of reducing injury/PDO crash frequency. Based on those findings, traffic enforcement cameras, as one of the major components of ITS, need to be carefully considered at the transportation planning stage. In general, this study provides valuable information for policy-makers and transportation planners to improve regional traffic safety, by properly allocating traffic enforcement resources.",
+		"DOI": "10.1016/j.aap.2020.105659",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Fan",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2
+				]
+			]
+		}
+	}
+	,
+	{
+		"id": "wc-6",
+		"type": "article-journal",
+		"title": "The effects of safety knowledge and psychological factors on self-reported risky driving behaviors including group violations for e-bike riders in China",
+		"container-title": Transportation research part F",
+		"page": "344-353",
+		"volume": "56",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "It is unknown that how safety knowledge and psychological factors affect e-bike rider safety. Also, group violation behaviors, which are commonly observed in the field, have been rarely examined for e-bike riders in China. In this paper, the effects of safety knowledge and psychological factors on self-reported risky driving behaviors including group violations were examined. A questionnaire was developed to acquire information of e-bike riders in Guilin, Guangxi Province. Explanatory factor analysis was used to examine the reliability of the questionnaire and exclude redundant measurement items. Then, a Structure Equation Model was developed to examine the relationships among safety knowledge, safety attitude, risk perception and risky driving behaviors. After that, multiple regression models were fitted to examine the effect of safety knowledge on each type of risky driving behavior, as well as factors associated with group violations. At last, ANOVA tests were conducted to identify significant differences among e-bike rider groups in safety knowledge, safety attitude, and risk perception. Safety knowledge was found significantly associated with risky driving behaviors for e-bike riders in China, including aggressive driving, erroneous driving, and group violations. E-bike riders severely lack safety knowledge, especially that of traffic rules, including unmarried riders, under-educated riders, riders without driver’s license, younger riders, and riders with little riding experience. Group violations were largely found among e-bike riders, and to be associated with safety knowledge of traffic rules, risk-taking attitude, and riding experience of e-bike riders. The findings could add some new safety implication and be beneficial for developing safety policies and interventions for e-bikes.",
+		"DOI": "10.1016/j.trf.2018.05.004",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Qian",
+				"given": "Z."
+			},
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2
+				]
+			]
+		}
+	},
+	
+	{
+		"id": "zw-1",
 		"type": "article-journal",
 		"title": "All-day Vehicle Detection from Surveillance Videos Based on Illumination-adjustable Generative Adversarial Network",
 		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
@@ -92,7 +243,7 @@
 			},
 			{
 				"family": "Wang",
-				"given": "C."
+				"given": "C.*"
 			},
 			{
 				"family": "Ge",
@@ -118,7 +269,7 @@
 	}
 ,
 	{
-		"id": "2",
+		"id": "zw-2",
 		"type": "article-journal",
 		"title": "Pedestrian Crossing Intention Prediction from Surveillance Videos for Over-the-horizon Safety Warning",
 		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
@@ -147,7 +298,7 @@
 			},
 			{
 				"family": "Wang",
-				"given": "C."
+				"given": "C.*"
 			}
 		],
 		"issued": {
@@ -161,7 +312,7 @@
 	}
 ,
 	{
-		"id": "3",
+		"id": "zw-3",
 		"type": "article-journal",
 		"title": "Monitoring-based Traffic Participant Detection in Urban Mixed Traffic: A Novel Dataset and A Tailored Detector",
 		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
@@ -178,7 +329,7 @@
 			},
 			{
 				"family": "Wang",
-				"given": "C."
+				"given": "C.*"
 			},
 			{
 				"family": "Xia",
@@ -204,7 +355,7 @@
 	}
 ,
 	{
-		"id": "4",
+		"id": "zw-4",
 		"type": "article-journal",
 		"title": "An Appearance-Motion Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic",
 		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
@@ -229,7 +380,7 @@
 			},
 			{
 				"family": "Wang",
-				"given": "C."
+				"given": "C.*"
 			}
 		],
 		"issued": {
@@ -245,7 +396,7 @@
 ,
 
 	{
-		"id": "5",
+		"id": "zw-5",
 		"type": "article-journal",
 		"title": "An Automated Learning Framework With Limited and Cross-Domain Data for Traffic Equipment Detection From Surveillance Videos",
 		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
@@ -266,7 +417,7 @@
 			},
 			{
 				"family": "Wang",
-				"given": "C."
+				"given": "C.*"
 			},
 			{
 				"family": "Zhan",
@@ -328,6 +479,285 @@
 			{
 				"family": "Wang",
 				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "zw-6",
+		"type": "article-journal",
+		"title": "Road defect detection from on-board cameras with scarce and cross-domain data",
+		"container-title": "Automation in Construction",
+		"page": "104628",
+		"volume": "144",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Deep learning methods have attained promising performance on road defect detection from on-board cameras. However, they oftentimes rely heavily on well-annotated datasets with sufficient samples, limiting the practical applications when only few labeled samples are available. To fill this gap, this paper proposes a framework based on Faster Region-Convolutional Neural Network (Faster R-CNN) for road defect detection with scarce and cross-domain data. First, a defect weighting branch is developed to enable Faster R-CNN to quickly learn to detect road defects with few annotated data, then a data augmentation method is proposed to enlarge the abundance of annotated data and alleviate the cross-domain issue. Experimental results demonstrate that the proposed framework has attained better performance compared to a state-of-the-art few-shot detector, in terms of an improved mean average precision of 1.83% when only limited samples (i.e., 30 images per category) are provided for training. In the future, the proposed framework could also be extended to other detection tasks with limited data (e.g., construction vehicle detection), allowing humans to reduce their efforts and time required for arduous data collection and annotation.",
+		"DOI": "10.1016/j.autcon.2022.104628",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Zhang",
+				"given": "H."
+			},
+			{
+				"family": "Zhao",
+				"given": "L."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "zw-7",
+		"type": "article-journal",
+		"title": "Automatic waste detection with few annotated samples: Improving waste management efficiency",
+		"container-title": "Engineering Applications of Artificial Intelligence",
+		"page": "105865",
+		"volume": "120",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Automatic waste detection in natural environments exhibits a great potential to improve the efficiency and reduce the labor cost of waste management. Recent deep learning-based waste detectors rely heavily on substantial annotated samples for training, but annotating sufficient samples for various categories of waste is labor-intensive and time-consuming. To address this issue, this paper simulates the visual system of human beings and develops a few-shot waste detection framework. To enable the proposed framework more suitable for waste detection, a waste proposal module using a comprehensive feature fusion manner is designed to allow the features of support images to fully interact with those of query images, guiding the framework to generate more potential region proposals containing waste. Also, a waste classification module using soft attention mechanism and foreground mask is designed to alleviate the issue of spatial misalignment and achieve the fine-grained classification towards waste-related proposals. The proposed framework is a general detection framework which can flexibly detect various categories of waste with few labeled samples (i.e., less than 30 instances per category). Experimental results show that the proposed framework achieves a mean average precision of 31.16% over 12 waste categories when only few samples (i.e., 30 instances per category) are provided, surpassing a state-of-the-art few-shot detector named AFDNet by 1.68%. This data scale-insensitive nature allows humans to reduce the effort and time required for laborious waste image collection and annotation, significantly increasing the flexibility of automatic waste detection and boosting the efficiency of waste management.",
+		"DOI": "10.1016/j.engappai.2023.105865",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Zhao",
+				"given": "L."
+			},
+			{
+				"family": "Huang",
+				"given": "H."
+			},
+			{
+				"family": "Chen",
+				"given": "Y."
+			},
+						{
+				"family": "Xu",
+				"given": "S."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "dai-1",
+		"type": "article-journal",
+		"title": "Safety-oriented automated vehicle longitudinal control considering both stability and damping behavior",
+		"container-title": "Accident Analysis & Prevention",
+		"page": "107486",
+		"volume": "198",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Extensive research has examined the potential benefits of Automated Vehicles (AVs) for increasing traffic capacity and improving safety. However, previous studies on AV longitudinal control have focused primarily on control stability and instability or tradeoffs between safety and stability, neglecting the importance of vehicle damping characteristics. This study aims to demonstrate the significance of explicitly considering safety in addition to stability in AV longitudinal control through damping behavior analysis. Specifically, it proposes a safety-oriented AV longitudinal control and provides recommendations on the control parameters. For the proposed AV control, an Adaptive Cruise Control (ACC) model is integrated with damping behavior analysis to model AV safety under continuous traffic perturbations. Numerical simulations are conducted to quantify the relationship between mobility and safety for AVs considering both damping behavior and control stability. Different ACC control parameters are evaluated in terms of damping and stability properties, and their safety impacts are assessed based on various surrogate safety measures such as Deceleration Rate to Avoid Crash (DRAC), Crash Potential Index (CPI) and Time-Integrated Time-to-collision (TIT). The results indicate that an underdamped state (ACC damping ratio < 1) is less safe than the critically damped state (ACC damping ratio = 1) and the overdamped state (ACC damping ratio > 1). Furthermore, given the same AV car-following time lag, ACC with a damping ratio between 1 and 1.2 provides better safety performance. Increasing the AV car-following time lag can improve both safety and stability when the remaining ACC control parameters are kept the same. In this case, the optimal safety-oriented ACC regions also increase. The findings of this study provide important insights into designing safe and stable AV longitudinal control algorithms.",
+		"DOI": "10.1016/j.aap.2024.107486",
+		"author": [
+			{
+				"family": "Dai",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			},
+			{
+				"family": "Xie",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "dai-2",
+		"type": "article-journal",
+		"title": "Explicitly incorporating surrogate safety measures into connected and automated vehicle longitudinal control objectives for enhancing platoon safety",
+		"container-title": "Accident Analysis & Prevention",
+		"page": "106975",
+		"volume": "183",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "The concepts of Connected and Automated Vehicles (CAV) and vehicle platooning have generated high expectations regarding the safety performance of future transportation systems. Existing CAV longitudinal control research primarily focuses on efficiency and control stability, by considering different inter-vehicle spacing policies. In very few cases, safety was also considered as a constraint, but not in the main control objectives. Theoretically, stability can only guarantee that CAV platoons eventually achieve an equilibrium state but is unable to promise safety along the process of achieving equilibrium. It is important to note that CAV does not mean absolutely safe, and its longitudinal or platoon control safety performance depends on how the control algorithms are designed, how accurately it can detect and predict its lead vehicle’s (could be a human-driven vehicle) next move, and other practical factors such as control and communication delays. To optimize CAV platoon safety, this study integrates surrogate safety measures (SSM) and model predictive control (MPC) into CAV longitudinal control for trajectory optimization. SSM has been widely adopted for modeling the safety consequences of various vehicle control strategies and identifying near-crash events from either simulated or field-captured traffic data. This study directly incorporates three typical SSM into the longitudinal control objectives of CAV and constructs a state-space MPC algorithm to model how these SSM vary as a result of CAV dynamics. Numerical examples are provided to show the performance of these SSM-based optimal CAV longitudinal control methods under traffic flow perturbations. To further confirm the necessity of explicitly considering SSM in CAV longitudinal control and its effectiveness in reducing rear-end collision risk, the proposed methods are compared with three classical longitudinal control models that do not consider SSM based on microscopic traffic simulation. It is noted that all SSM-based optimal control methods perform better than others as manifested by some key risk indicators, demonstrating the importance of explicitly considering SSM and safety in CAV longitudinal control.",
+		"DOI": "10.1016/j.aap.2023.106975",
+		"author": [
+			{
+				"family": "Dai",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			},
+			{
+				"family": "Xie",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "zw-8",
+		"type": "article-journal",
+		"title": "A fast and data-efficient deep learning framework for multi-class fruit blossom detection",
+		"container-title": "Computers and Electronics in Agriculture",
+		"page": "108592",
+		"volume": "217",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Automatic fruit blossom detection plays a crucial role in agricultural intelligence to predict fruit yield. Existing deep learning methods for vision-based fruit blossom detection oftentimes rely on large labeled samples and are tailor for a single category of fruit blossoms, limiting their flexibility and adaptability in real applications. In this paper, a fast and data-efficient framework is proposed to achieve multi-class fruit blossom detection using few labeled samples, which not only enhances the flexibility of model training by reducing the need for extensive samples but also extends the model’s applicability to a wider range of blossom categories. Specifically, the proposed framework incorporates the paradigm of few-shot object detection into a lightweight two-stage detector named CenterNet2. To improve the recall of blossom proposals, we introduce a location guidance module (LGM) to highlight foreground regions in query images that bear resemblance to the blossom reference provided by support images. Moreover, a contrastive learning scheme (CLS) is introduced to further distinguish fruit blossom categories with similar appearances, enhancing classification accuracy. Experimental results demonstrated that our framework achieved comparable performance to existing state-of-the-art models, with a mean average precision of 74.33% over 12 categories of fruit blossoms and a frame per second rate of 47. In summary, our proposed framework can reduce data dependency and enhance flexibility of existing deep learning detectors, making it a promising solution for automatic monitoring in real-world agricultural applications.",
+		"DOI": "10.1016/j.compag.2023.108592",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Cui",
+				"given": "Y."
+			},
+			{
+				"family": "Huang",
+				"given": "H."
+			},
+			{
+				"family": "Huang",
+				"given": "H."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2
+				]
+			]
+		}
+	},
+	
+	{
+		"id": "zw-9",
+		"type": "article-journal",
+		"title": "A vision-based abnormal trajectory detection framework for online traffic incident alert on freeways",
+		"container-title": "Neural Computing and Applications",
+		"page": "14945–14958",
+		"volume": "34",
+		"issue": "N/A",
+		"source": "Springer",
+		"abstract": "Abnormal trajectory detection from surveillance cameras is a highly desirable but challenging task, especially for online traffic incident alert on freeways. Existing methods are mainly customized for offline alert and easily suffer from false alerts when applying them to online alert. To fill this gap, an anomaly trajectory detection framework is proposed for online traffic incident alert on freeways. Based on a LSTM autoencoder, this framework introduces an adversarial learner (AL) for offline training and an abnormal trajectory discriminator (ATD) for online alert. The adversarial learner uses an additional adversarial loss to enable the autoencoder to learn a better normal trajectory pattern that is beneficial for reducing false alerts, while an abnormal trajectory discriminator is established and trained to detect small mean shift and filter out instantaneous false alerts. The experimental results show that our proposed framework effectively filters out false alerts and obtains a state-of-art performance (AUC = 0.97) compared to existing methods. Moreover, our framework could timely alert traffic incidents within 0.25 s, which is significant for timely preventing the occurrence of traffic crashes and improving the response speed of incident management on freeways.",
+		"DOI": "10.1007/s00521-022-07335-w",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Yu",
+				"given": "Y."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "LIU-1",
+		"type": "article-journal",
+		"title": "Multi-weighted graph 3D convolution network for traffic prediction",
+		"container-title": "Neural Computing and Applications",
+		"page": "15221–15237",
+		"volume": "35",
+		"issue": "N/A",
+		"source": "Springer",
+		"abstract": "Predicting future traffic state (e.g., traffic speed, volume, travel time, etc.) accurately is highly desirable for traffic management and control. However, network-wide traffic flow has complicated spatial-temporal dependencies, making it challenging to predict. This study proposes a multi-weighted graph 3D convolution network (MWG3D) to predict future network-wide traffic speed, considering the spatial-temporal heterogeneous effects of multiple external factors (i.e., points of interests (POIs), roadway physical characteristics and incidents). The network is composed of a Graph-3D convolution (G3D) module and an incident impact module. In G3D module, a weighted graph convolution is developed first, which extracts complex spatial dependencies of traffic flow considering heterogeneous effects of POIs and roadway physical characteristics. These external factors have great influence on the periodicity of human daily activities, which in turn cyclically affect traffic flow. The weighted graph convolution is further connected with 3D convolutions to extract temporal dependencies of traffic flow, accounting for temporal heterogeneous effects of these external factors. An incident impact module is separately developed to account for spatial-temporal heterogeneous effects of incidents. These external factors could lead to abrupt and temporary changes in traffic flow. The proposed network is evaluated on two real-world datasets. The results show that MWG3D outperforms a selection of the state-of-the-art models. Furthermore, the spatial-temporal heterogeneous effects of external factors are crucial to prediction accuracy.",
+		"DOI": "10.1007/s00521-023-08519-8",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C.*"
+			},
+			{
+				"family": "Xu",
+				"given": "S."
+			},
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Chen",
+				"given": "Y."
 			}
 		],
 		"issued": {
