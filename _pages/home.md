@@ -16,7 +16,7 @@ TR Meta Lab, established by Professor <a href="https://trmetagroup.github.io/tea
 
 #### 1. Personnel Composition
 
-TR Meta Lab consists of a team comprising a professor (fully)<a href="https://trmetagroup.github.io/team/ChenWang"> [Chen Wang]</a>, a professor (Associate)  , a lecturer，6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
+TR Meta Lab consists of a team comprising a professor (fully)<a href="https://trmetagroup.github.io/team/ChenWang"> [Chen Wang]</a>, a professor (Associate), a lecturer, 6 PhD students and over 20 Master's students.  The detailed information of all members can be found  <a href="https://trmetagroup.github.io/team/"> [here]</a>
 
 #### 2. Research Directions
 
