@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Siyuan Kou
-image: iyuankou.jpg
+image: siyuankou.jpg
 role: M.S. Student (Graduated )
 permalink: 'team/siyuankou'
 
