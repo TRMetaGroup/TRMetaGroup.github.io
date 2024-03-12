@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Runyu Zhang
 image: runyuzhang.png
-role:  Master's Student
+role:  M.S. Student
 permalink: 'team/runyuzhang'
 social:
 education:
