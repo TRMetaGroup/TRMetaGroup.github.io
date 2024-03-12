@@ -5,13 +5,16 @@ title: Wenbo Zhang
 image: wenbozhang.png
 role: Researcher
 permalink: 'team/wenbozhang'
+
 social:
     google-scholar: https://scholar.google.com.hk/citations?user=Z1GKGOkAAAAJ&hl=zh-CN&oi=sra
     orcid: xxx
+
 education:  
-  - Purdue University, Department of Civil Engineering, Transportation and Infrastructure Systems, PhD, July xxx to December xxx,
+  - Purdue University, Department of Civil Engineering, Transportation and Infrastructure Systems, PhD, July xxx to December xxx
   - Southeast University, School of Transportation, Transportation and Engineering, Master's, September xxx to June xxx
   - China University of Mining and Technology, School of Mining Engineering, Department of Transportation, Bachelor's, September xxx to June xxx
+
 research_interest: 
   - Intelligent Transportation Systems, Road Traffic State Perception
 email: 
