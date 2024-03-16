@@ -117,7 +117,7 @@
 	}
 
 ,
-		{
+	{
 		"id": "wc-5",
 		"type": "article-journal",
 		"title": "Effects of traffic enforcement cameras on macro-level traffic safety: A spatial modeling analysis considering interactions with roadway and land use characteristics",
@@ -771,6 +771,7 @@
 					2
 				]
 			]
+		}
 		},
 	
 		{
