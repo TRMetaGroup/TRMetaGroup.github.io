@@ -115,47 +115,13 @@
 			]
 		}
 	}
-,
-	{
-		"id": "wc-4",
-		"type": "article-journal",
-		"title": "Effects of traffic enforcement cameras on macro-level traffic safety: A spatial modeling analysis considering interactions with roadway and land use characteristics",
-		"container-title": Accident Analysis & Prevention",
-		"page": " 105659",
-		"volume": "144",
-		"issue": "N/A",
-		"source": "Elsevier",
-		"abstract": "Nowadays, intelligent transportation system (ITS) planning has been often integrated into transportation planning stage. As a component of ITS, traffic enforcement cameras have been found to reduce dangerous behaviors, such as red-light running and speeding. However, with limited resource, it is important to understand the effects of enforcement cameras on macro-level safety, so that traffic policy-makers can better allocate those resources to improve traffic safety from the planning stage. In this paper, we examined the effects of various traffic enforcement cameras on regional traffic crash risk, considering their interactions with roadway and land use characteristics. The Kunshan city in Suzhou, China was selected in this study and a spatial modeling analysis was applied. According to the modeling results, several conclusions can be drawn: 1. Interaction effects on regional injury/PDO crash risk were found between traffic enforcement cameras and roadway/land use factors; 2. Traffic enforcement cameras were found to be associated with decreased regional crash risk. Among them, red-light running and speeding cameras were associated with the reduction of injury/PDO crash frequency, which can be further enhanced when being installed in certain area (e.g. industrial, commercial, residential land use) and on certain roadways (e.g. major arterials, local roads). Illegal lane changing cameras were associated with the decrease in PDO crash frequency, while such effect on reducing injury crashes was only found as significant on major arterials; 3. The main effects of certain land use and roadway factors appeared to be mediated by traffic enforcement interaction terms. For example, the main effect of industrialized land use was found as insignificant, while the interaction term between industrial area and speeding cameras showed a significant effect of reducing injury/PDO crash frequency. Based on those findings, traffic enforcement cameras, as one of the major components of ITS, need to be carefully considered at the transportation planning stage. In general, this study provides valuable information for policy-makers and transportation planners to improve regional traffic safety, by properly allocating traffic enforcement resources.",
-		"DOI": "10.1016/j.aap.2020.105659",
-		"author": [
-			{
-				"family": "Wang",
-				"given": "C."
-			},
-			{
-				"family": "Xu",
-				"given": "C."
-			},
-			{
-				"family": "Fan",
-				"given": "P."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2020",
-					2
-				]
-			]
-		}
-	}
+
 ,
 		{
 		"id": "wc-5",
 		"type": "article-journal",
 		"title": "Effects of traffic enforcement cameras on macro-level traffic safety: A spatial modeling analysis considering interactions with roadway and land use characteristics",
-		"container-title": Accident Analysis & Prevention",
+		"container-title": "Accident Analysis & Prevention",
 		"page": " 105659",
 		"volume": "144",
 		"issue": "N/A",
@@ -190,7 +156,7 @@
 		"id": "wc-6",
 		"type": "article-journal",
 		"title": "The effects of safety knowledge and psychological factors on self-reported risky driving behaviors including group violations for e-bike riders in China",
-		"container-title": Transportation research part F",
+		"container-title": "Transportation research part F",
 		"page": "344-353",
 		"volume": "56",
 		"issue": "N/A",
@@ -764,6 +730,424 @@
 			"date-parts": [
 				[
 					"2023",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "zw-9",
+		"type": "article-journal",
+		"title": "A vision-based abnormal trajectory detection framework for online traffic incident alert on freeways",
+		"container-title": "Neural Computing and Applications",
+		"page": "14945–14958",
+		"volume": "34",
+		"issue": "N/A",
+		"source": "Springer",
+		"abstract": "Abnormal trajectory detection from surveillance cameras is a highly desirable but challenging task, especially for online traffic incident alert on freeways. Existing methods are mainly customized for offline alert and easily suffer from false alerts when applying them to online alert. To fill this gap, an anomaly trajectory detection framework is proposed for online traffic incident alert on freeways. Based on a LSTM autoencoder, this framework introduces an adversarial learner (AL) for offline training and an abnormal trajectory discriminator (ATD) for online alert. The adversarial learner uses an additional adversarial loss to enable the autoencoder to learn a better normal trajectory pattern that is beneficial for reducing false alerts, while an abnormal trajectory discriminator is established and trained to detect small mean shift and filter out instantaneous false alerts. The experimental results show that our proposed framework effectively filters out false alerts and obtains a state-of-art performance (AUC = 0.97) compared to existing methods. Moreover, our framework could timely alert traffic incidents within 0.25 s, which is significant for timely preventing the occurrence of traffic crashes and improving the response speed of incident management on freeways.",
+		"DOI": "10.1007/s00521-022-07335-w",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Yu",
+				"given": "Y."
+			},
+			{
+				"family": "Zhan",
+				"given": "Y."
+			},
+			{
+				"family": "Wang*",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2
+				]
+			]
+		},
+	
+		{
+		"id": "chen-1",
+		"type": "article-journal",
+		"title": "An ensemble optimization strategy for dynamic parking-space allocation",
+		"container-title": "IEEE Intelligent Transportation Systems Magazine",
+		"page": " 347 - 362",
+		"volume": "15",
+		"issue": "1",
+		"source": "IEEE",
+		"abstract": "The individual choices of parkers, based on self-interests, can result in the inefficient use of on-street parking-space resources as well as chaotic parking conditions (e.g., secondary path interweaving). Therefore, an ensemble optimization strategy for dynamic parking-space allocation (EO-DPSA) is proposed for systematically optimizing on-street parking-space use. First, the issue of inefficient parking-space use caused by the individual choice of parkers is investigated. Subsequently, the EO-DPSA technique is developed for optimizing parking-space use from a system level by improving the parking sequence for eliminating parking-entry conflicts. Consequently, the compliance rate of parking guidance is increased, and secondary path interweaving is prevented. Next, the optimization effect of the EO-DPSA technique is validated based on the smart parking data obtained from Guilin City. The obtained results indicate that after optimization via the EO-DPSA method, the parking-space use of 81 parking areas is optimized. Hence, 2.86–66.67% of redundant parking spaces can be discarded in 41 parking areas. In particular, a parking compliance rate of 99.023% is achieved. In addition, 97.82% of the parking phases exhibit better results in avoiding secondary path interweaving after optimization",
+		"DOI": "10.1109/MITS.2022.3163506",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Y."
+			},
+			{
+				"family": "Wang*",
+				"given": "T."
+			},
+			{
+				"family": "Yan",
+				"given": "X."
+			},
+			{
+				"family": "Wang*",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "wc-7",
+		"type": "article-journal",
+		"title": "Evaluation of a simulation-based surrogate safety metric",
+		"container-title": "Accident Analysis and Prevention",
+		"page": "82-92",
+		"volume": "71",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "The development of surrogate safety measures is essential due to the problems of availability and quality of historical crash data. The Aggregate Conflict Propensity Metric (ACPM) is a surrogate metric recently proposed and it is based on conflict studies and traffic simulations. ACPM is expected to be capable of assessing the relative safety levels of traffic facilities and/or treatments in order to help traffic engineers to select appropriate treatments based on traffic safety estimates. This paper presents three experimental tests conducted to evaluate the reliability of ACPM. In each test, ACPM is compared to a traditional conflict indicator in terms of identifying and ranking safety of traffic conditions under various traffic volumes based on traffic simulations. ACPM shows its strength and reliability in all three tests, as it provides results highly consistent with the Highway Safety Manual. The experimental tests indicate that ACPM is a promising surrogate safety measure that can appropriately identify relative safety among traffic treatments and/or facilities and provide traffic engineers with useful information on potential safety impact.",
+		"DOI": "10.1016/j.aap.2014.05.004",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Stamatiadis",
+				"given": "N."
+			},
+
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "wc-8",
+		"type": "article-journal",
+		"title": "Sensitivity Analysis on New Simulation-Based Conflict Metrics",
+		"container-title": "Safety Science",
+		"page": "399-409",
+		"volume": "82",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "The Conflict Propensity Metric (CPM) and the Aggregate Conflict Propensity Metric (ACPM) are two simulation-based conflict metrics recently proposed as surrogate safety measures. The two metrics are derived through a stochastic process incorporating distributions of driver reaction time (RT) and vehicle maximum braking rates (MABR). This paper presents sensitivity analyses on the two metrics, by altering the parameters (i.e. mean and standard deviation) of RT distributions. Both RT mean and standard deviation affect the estimates of CPM for the three conflict types examined here (i.e. crossing, rear-end and lane change), and the impacts vary by conflict types, indicating the need of carefully evaluating and considering both RT distributions and conflict types when developing simulation-based conflict metrics. A sensitivity analysis based on field data showed that different RT distributions have an impact on ACPM and could affect the reliability of ACPM in identifying relative safety and its correlation with actual crashes. The analysis here identified the potential existence of different “realistic” RT distributions for different conflict types and the suggested values are considered reasonable or consistent with prior findings. ACPM has proved to have potential to further improve its accuracy using more suitable RT distributions. However, dedicated RT distributions for specific conflict types are lacking, especially a joint RT distribution conditional various factors, impeding the improvement of ACPM. In general, sensitivity analyses have shown the strength of the process of deriving CPM and ACPM by providing reasonable findings, as well as pointing out interesting and important future research directions, such as finding actual RT distributions for different conflict types.",
+		"DOI": "10.1016/j.ssci.2015.09.023",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Stamatiadis",
+				"given": "N."
+			},
+
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "zw-10",
+		"type": "article-journal",
+		"title": "Fine-grained vehicle make and model recognition framework based on magnetic fingerprint",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "1-15",
+		"volume": "N/A",
+		"issue": "N/A",
+		"source": "IEEE",
+		"abstract": "The Conflict Propensity Metric (CPM) and the Aggregate Conflict Propensity Metric (ACPM) are two simulation-based conflict metrics recently proposed as surrogate safety measures. The two metrics are derived through a stochastic process incorporating distributions of driver reaction time (RT) and vehicle maximum braking rates (MABR). This paper presents sensitivity analyses on the two metrics, by altering the parameters (i.e. mean and standard deviation) of RT distributions. Both RT mean and standard deviation affect the estimates of CPM for the three conflict types examined here (i.e. crossing, rear-end and lane change), and the impacts vary by conflict types, indicating the need of carefully evaluating and considering both RT distributions and conflict types when developing simulation-based conflict metrics. A sensitivity analysis based on field data showed that different RT distributions have an impact on ACPM and could affect the reliability of ACPM in identifying relative safety and its correlation with actual crashes. The analysis here identified the potential existence of different “realistic” RT distributions for different conflict types and the suggested values are considered reasonable or consistent with prior findings. ACPM has proved to have potential to further improve its accuracy using more suitable RT distributions. However, dedicated RT distributions for specific conflict types are lacking, especially a joint RT distribution conditional various factors, impeding the improvement of ACPM. In general, sensitivity analyses have shown the strength of the process of deriving CPM and ACPM by providing reasonable findings, as well as pointing out interesting and important future research directions, such as finding actual RT distributions for different conflict types.",
+		"DOI": "10.1109/TITS.2024.3374888",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "H."
+			},
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Liu",
+				"given": "G."
+			},
+			{
+				"family": "Wang",
+				"given": "Z."
+			},
+			{
+				"family": "Qian",
+			"given": "Z."}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2
+				]
+			]
+		}
+	},	
+	{
+		"id": "zw-11",
+		"type": "article-journal",
+		"title": "A Controllable Generative Model for Generating Pavement Crack Images in Complex Scenes",
+		"container-title": "Computer-Aided Civil and Infrastructure Engineering",
+		"page": "1-15",
+		"volume": "N/A",
+		"issue": "N/A",
+		"source": "WILEY",
+		"abstract": "Existing crack recognition methods based on deep learning often face difficulties when detecting cracks in complex scenes such as brake marks, water marks, and shadows. The inadequate amount of available data can be primarily attributed to this factor. To address this issue, a controllable generative model of pavement cracks is proposed that can generate crack images in complex scenes by leveraging background images and crack mask images. The proposed model, the crack diffusion model (CDM), is based on the diffusion model network, which enables better control over the position and morphology of cracks by adjusting the conditional input of cracks. Experiments show that CDM has several advantages, including high definition, controllability, and sensitivity to narrow cracks. Utilizing CDM to create a synthetic crack data set in complex scenes resulted in substantial improvements of crack detection and segmentation. The method proposed in this study can effectively alleviate the effort required for data acquisition and labeling, especially in complex scenes.",
+		"DOI": "10.1111/mice.13171",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "H."
+			},
+			{
+				"family": "Qian",
+				"given": "Z."
+			},
+			{
+				"family": "Zhou",
+				"given": "W."
+			},
+			{
+				"family": "Min",
+				"given": "Y."
+			},
+			{
+				"family": "Liu",
+			"given": "P."}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2
+				]
+			]
+		}
+	},	
+			{
+		"id": "wc-8",
+		"type": "article-journal",
+		"title": "Modeling Faults among E-Bike-Related Fatal Crashes in China",
+		"container-title": "Traffic Injury Prevention",
+		"page": "175-181",
+		"volume": "18",
+		"issue": "2",
+		"source": "Taylor&Francis Online",
+		"abstract": "Three-year crash data are retrieved from the crash reports (2012–2014) from the Taixing Police Department. A mixed logit model is introduced to explore significant factors associated with fault assignment, as well as accounting for similarity among fault assignment and heterogeneity within unobserved variables. The modeling results indicate some interesting new findings. First, precrash behaviors of both drivers and e-bike riders are found to be significant to fault assignment. Second, bike lane and median type are significantly associated with e-bike rider fault commitment. Third, specific groups of e-bike riders (low-educated and older) and drivers (heavy good vehicles) are more likely to be at fault in e-bike crashes. Last, crash location and the built environment have significant correlations with faulty behaviors of e-bike riders. Safety countermeasures are proposed including (1) the deployment of traffic design and control elements including physically separated bike lanes, medians, video surveillance systems for e-bike riders, and left-turning treatments for nonmotorists (e.g., a 2-step e-bike left turning); (2) the amendment of the current traffic regulations on drunk e-bike riders and child e-bike passengers; (3) the development of a license system for specific e-bike rider groups (older and low-educated) and a safety campaign for drivers (to increase safety awareness when parking on-street or driving heavy good vehicles). Some interesting future research topics are also suggested: e-bike riders' behaviors at unsignalized intersections and mid-block openings, e-bike safety in suburban areas, and an in-depth study of the effect of the built environment on e-bike safety.",
+		"DOI": "10.1080/15389588.2016.1228922",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Qian",
+				"given": "Z."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2
+				]
+			]
+		}
+	},
+			{
+		"id": "wc-9",
+		"type": "article-journal",
+		"title": "Modeling crash severity by considering risk indicators of driver and roadway: A Bayesian network approach. Journal of safety research",
+		"container-title": " Journal of safety research",
+		"page": "64-72",
+		"volume": "76",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Introduction: Traffic crashes could result in severe outcomes such as injuries and deaths. Thus, understanding factors associated with crash severity is of practical importance. Few studies have deeply examined how prior violation and crash experience of drivers and roadways are associated with crash severity. Method: In this study, a set of risk indicators of road users and roadways were developed based on their prior violation and crash records (e.g., cumulative crash frequency of a roadway), in order to reflect certain aspect or degree of their driving risk. To explore the impacts of those indicators on crash severity and complex interactions among all contributing factors, a Bayesian network approach was developed, based on citywide crash data collected in Kunshan, China from 2016 to 2018. A variable selection procedure based on Information Value (IV) was developed to identify significant variables, and the Bayesian network was employed to explicitly explore statistical associations between crash severity and significant variables. Results: In terms of balanced accuracy and AUCs, the proposed approach performed reasonably well. Bayesian modeling results indicated that the prior crash/violation experiences of road users and roadways were very important risk indicators. For example, migrant workers tend to have high injury risk due to their dangerous violation behaviors, such as retrograding, red-light running, and right-of-way violation. Furthermore, results showed that certain variable combinations had enhanced impacts on severity outcome than single variables. For example, when a migrant worker and a non-motorized vehicle are involved in a crash happening on a local road with high cumulative violation frequency in the previous year, the probability for drivers suffering serious injury or fatality is much higher than that caused by any single factor. Practical applications: The proposed methodology and modeling results provide insights for developing effective countermeasures to reduce crash severity and improve traffic system safety performance.",
+		"DOI": "10.1016/j.jsr.2020.11.006",
+		"author": [
+			{
+				"family": "Song",
+				"given": "Y."
+			},
+			{
+				"family": "Kou",
+				"given": "S."
+			},
+			{
+				"family": "Wang*",
+				"given": "C."
+			}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2
+				]
+			]
+		}
+	},
+			{
+		"id": "wc-10",
+		"type": "article-journal",
+		"title": "Statistical analysis of the patterns and characteristics of connected and autonomous vehicle involved crashe",
+		"container-title": " Journal of safety research",
+		"page": "41-47",
+		"volume": "71",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "This study aimed to investigate the characteristics and patterns of the connected and autonomous vehicle (CAV) involved crashes. Method: The crash data were collected from the reports of CAV involved crash submitted to the California Department of Motor Vehicles. The descriptive statistics analysis was employed to investigate the characteristics of CAV involved crashes in terms of crash location, weather conditions, driving mode, vehicle movement before crash occurrence, vehicle speed, collision type, crash severity, and vehicle damage locations. The bootstrap based binary logistic regressions were then developed to investigate the factors contributing to the collision type and severity of CAV involved crashes. Results: The results suggested that the CAV driving mode, collision location, roadside parking, rear-end collision, and one-way road are the main factors contributing to the severity level of CAV involved crashes. The CAV driving mode, CAV stopped or not, CAV turning or not, normal vehicle turning or not, and normal vehicle overtaking or not are the factors affecting the collision type of CAV involved crashes.",
+		"DOI": "10.1016/j.jsr.2019.09.001",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "C."
+			},
+			{
+				"family": "Ding",
+				"given": "Z."
+			},
+			{
+				"family": "Wang*",
+				"given": "C."
+			},
+			{
+				"family": "Li",
+				"given": "Z."
+			}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2
+				]
+			]
+		}
+	},
+		{
+		"id": "wc-11",
+		"type": "article-journal",
+		"title": "A data-driven approach to determining freeway incident impact areas with fuzzy and graph theory-based clustering",
+		"container-title": "Computer-Aided Civil and Infrastructure Engineering",
+		"page": "178-199",
+		"volume": "35",
+		"issue": "2",
+		"source": "WILEY",
+		"abstract": "Determining spatiotemporal impact areas of incidents plays a significant role in incident impact analysis. Although existing empirical methods have proven to be promising, they suffer from the drawbacks that limit their wide applications in automated freeway safety management. This study presents a data‐driven approach to automatically determining the spatiotemporal impact areas of freeway incidents. The spatiotemporal contour plots were first constructed using three representative traffic measures. Next, a nonrecurrent congestion area identification method based on fuzzy clustering was developed. To distinguish possible multiple independent blocks in the nonrecurrent congestion area, a clustering algorithm based on graph theory was adopted. The incident impact areas were then determined by conducting a postprocessing strategy. The incident records and the associated traffic flow data, collected on I‐5 freeway segments in San Diego Region, CA, were used to evaluate the proposed approach. Experimental results show the proposed approach can automatically and properly determine incident impact areas while accounting for the uncertainty resulting from traffic variations.",
+		"DOI": "10.1111/mice.12484",
+		"author": [
+			{
+				"family": "Ou",
+				"given": "J."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Wang",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Lu",
+			"given": "Z."}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2
+				]
+			]
+		}
+	},	
+		{
+		"id": "wc-12",
+		"type": "article-journal",
+		"title": "Platoon Trajectories Generation: A Unidirectional Interconnected LSTM-Based Car-Following Model",
+		"container-title": "IEEE Transactions on Intelligent Transportation Systems",
+		"page": "2071-2081",
+		"volume": "23",
+		"issue": "3",
+		"source": "IEEE",
+		"abstract": "Car-following models have been widely applied and made remarkable achievements in traffic engineering. However, the traffic micro-simulation accuracy of car-following models in a platoon level, especially during traffic oscillations, still needs to be enhanced. Rather than using traditional individual car-following models, we proposed a new trajectory generation approach to generate platoon level trajectories given the first leading vehicle’s trajectory. In this article, we discussed the temporal and spatial error propagation issue for the traditional approach by a car following block diagram representation. Based on the analysis, we pointed out that error comes from the training method and the model structure. In order to fix that, we adopt two improvements on the basis of the traditional LSTM-based car-following model. We utilized a scheduled sampling technique during the training process to solve the error propagation in the temporal dimension. Furthermore, we developed a unidirectional interconnected LSTM model structure to extract trajectories features from the perspective of the platoon. As indicated by the systematic empirical experiments, the proposed novel structure could efficiently reduce the temporal-spatial error propagation. Compared with the traditional LSTM-based car-following model, the proposed model has almost 40% less error. The findings will benefit the design and analysis of micro-simulation for platoon-level car-following models.",
+		"DOI": "10.1109/TITS.2020.3031282",
+		"author": [
+			{
+				"family": "Ou",
+				"given": "J."
+			},
+			{
+				"family": "Xia",
+				"given": "J."
+			},
+			{
+				"family": "Wang",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Lu",
+			"given": "Z."}
+			
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
 					2
 				]
 			]
