@@ -190,6 +190,42 @@
 			]
 		}
 	},
+	{
+		"id": "cyz-2",
+		"type": "article-journal",
+		"title": "Modeling the risk of single-vehicle run-off-road crashes on horizontal curves using connected vehicle data",
+		"container-title": "Analytic Methods in Accident Research",
+		"page": "1003337",
+		"volume": "22",
+		"issue": "N/A",
+		"source": "Elsevier",
+		"abstract": "Crash risk measures (CRMs) are widely used in safety analysis to complement crash reports. However, none of the existing CRMs are specifically developed for modeling the risk of single-vehicle run-off-road (SVROR) crashes, especially those on horizontal curves. This paper proposes a novel crash risk measure for modeling SVROR crash risk using connected vehicle data. The proposed SVROR crash risk measure (SVROR-CRM) is based on the concept of tetraquark in particle physics. It utilizes the adjusted position deviation risk force and adjusted attitude deviation risk moment  to quantify SVROR crash risk. The SVROR crash risk is then estimated by the joint probability using a peak-over threshold approach. The risk threshold is automatically determined via a mean absolute error function. The SVROR-CRM is validated using connected vehicle and crash data from sixteen curves on Interstate 80 in Wyoming. The results suggest that the estimated SVROR crash risks well match historical crash records. Also, it is found that attitude deviation poses a higher risk of SVROR crash than position deviation on horizontal curves. Therefore, it is critical for drivers to steer properly on curves to minimize SVROR crash risks. The proposed approach bridges an important gap in crash risk measure research and can be used to estimate SVROR crash risk and identify unsafe trajectories and high-crash locations and/or periods on highway horizontal curves.",
+		"DOI": "10.1016/j.amar.2024.100333",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Y."
+			},
+			{
+				"family": "Wang",
+				"given": "C."
+			},
+			{
+				"family": "Xie",
+				"given": "Y."
+			}
+
+
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2
+				]
+			]
+		}
+	},
 	
 	{
 		"id": "zw-1",
