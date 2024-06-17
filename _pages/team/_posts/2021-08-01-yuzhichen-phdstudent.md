@@ -7,7 +7,7 @@ role: PhD Student
 permalink: 'team/yuzhichen'
 social:
     google-scholar: https://scholar.google.com/citations?hl=zh-CN&user=bxzoBQkAAAAJ
-    github: https://www.webofscience.com/wos/author/record/ABF-1053-2020
+    github: https://fenghy-chen.github.io/
     orcid: https://orcid.org/0000-0003-2321-993X
     research-gate: https://www.researchgate.net/profile/Yuzhi-Chen-3
 education:
@@ -17,14 +17,17 @@ education:
 research_interest: 
   - Intelligent Transportation Systems, connected automated driving , Crash Risk Measure, Risky Driving Behavior & Safety, Big Data Mining & Analysis, Intelligent Parking Scheduling & Management
 email:
- - yuzhi_chen@seu.edu.cn
+ - y.z.chen.fhy@gmail.com
+
 ---
 
 Yuzhi Chen is a Ph.D. candidate at Southeast University, advised by Prof. Chen Wang. He is currently in the second year of his doctoral studies, expected to graduate before June 2026.
 
-He has applied for over **10 invention patents, 8 granted**, and published **11 academic  papers** in SCI or EI-indexed journals. He received several awards and honors, including the **National Scholarship for Graduate Students (twice)**, **Excellent Master Theses**, **Excellent Graduate Students of Guangxi Province**, and so on. He chaired the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Innovative Entrepreneurship Training Program for university students in Jiangsu and the Innovation Project of GUET Graduate Education.
+He has applied for over **10 invention patents, 9 granted**, and published **10+ academic  papers** in SCI or EI-indexed journals. He received several awards and honors, including the **National Scholarship for Graduate Students (twice)**, **Excellent Master Theses**, **Excellent Graduate Students of Guangxi Province**, and so on. He chaired the Postgraduate Research & Practice Innovation Program of Jiangsu Province, the Innovative Entrepreneurship Training Program for university students in Jiangsu and the Innovation Project of GUET Graduate Education.
 
-He serves as reviewers for International journals including Accident Analysis and Prevent, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, The Journal of Supercomputing, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed **more than 100 review articles**.
+He serves as reviewers for International journals including Accident Analysis and Prevent, Information Science, Applied Soft Computing Journal, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, COTA CICTP, TRB,IET Intelligent Transport Systems, and IET Image Processing. He has completed **more than 150 review articles**.
+
+For more information, please visit his [personal website](https://fenghy-chen.github.io/).
 
 ### Projects
 
